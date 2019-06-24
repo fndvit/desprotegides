@@ -1,0 +1,948 @@
+codimuni,codicomarca,provincia,comarca,partido,municipio,poblacion,homes,dones,greus,moltgreus,siadmuni,siadsnombre,siadstitularitat,tasadenuncia,estimaciodenuncies,tasaatesses,estimacioatesses,tasaatessesvm
+170237,34,Girona,Selva,Blanes,Blanes,38790,19272,16737,1021,385,Blanes,1,l'Ajuntament,18.31,187,6.28,64,47.5
+170950,34,Girona,Selva,Blanes,Lloret de Mar,37350,19099,15430,941,355,Lloret de Mar,1,l'Ajuntament,18.31,172,6.28,59,47.5
+172023,34,Girona,Selva,Blanes,Tossa de Mar,5584,2816,2390,146,55,No,1,el Consell Comarcal,18.31,27,6.28,9,47.5
+81017,13,Barcelona,Barcelonès,l'Hospitalet de Llobregat,l'Hospitalet de Llobregat,261068,126066,117162,7147,2695,l'Hospitalet de Llobregat,1,l'Ajuntament,17.71,1266,2.36,169,28.2
+171609,10,Girona,Baix Empordà,Sant Feliu de Guíxols,Sant Feliu de Guíxols,21824,10761,9396,573,216,Sant Feliu de Guíxols,1,l'Ajuntament,17.66,101,4.15,24,36.6
+170486,10,Girona,Baix Empordà,Sant Feliu de Guíxols,Castell-Platja d'Aro,10585,5215,4605,281,106,No,1,el Consell Comarcal,17.66,50,4.15,12,36.6
+171812,10,Girona,Baix Empordà,Sant Feliu de Guíxols,Santa Cristina d'Aro,5203,2608,2157,132,50,Santa Cristina d'Aro,1,l'Ajuntament,17.66,23,4.15,5,36.6
+80364,6,Girona,Anoia,Sant Feliu de Guíxols,Calonge,10897,5457,86,5,2,No,1,el Consell Comarcal,17.66,1,1.29,0,12.4
+430017,1,Tarragona,Alt Camp,el Vendrell,Aiguamúrcia,893,457,367,22,8,No,1,el Consell Comarcal,17.47,4,13.73,3,44.4
+430897,1,Tarragona,Alt Camp,el Vendrell,Montferri,383,206,137,8,3,No,1,el Consell Comarcal,17.47,1,13.73,1,44.4
+431634,12,Tarragona,Baix Penedès,el Vendrell,el Vendrell,37153,18452,15633,954,360,el Vendrell,2,l'Ajuntament i el Consell Comarcal,17.47,167,6.18,59,40
+430379,12,Tarragona,Baix Penedès,el Vendrell,Calafell,25444,12767,10866,663,250,Calafell,1,l'Ajuntament,17.47,116,6.18,41,40
+430516,12,Tarragona,Baix Penedès,el Vendrell,Cunit,12326,6016,5373,328,124,No,1,el Consell Comarcal,17.47,57,6.18,20,40
+430167,12,Tarragona,Baix Penedès,el Vendrell,l'Arboç,5505,2836,2176,133,50,No,1,el Consell Comarcal,17.47,23,6.18,8,40
+430287,12,Tarragona,Baix Penedès,el Vendrell,la Bisbal del Penedès,3464,1836,1394,85,32,No,1,el Consell Comarcal,17.47,15,6.18,5,40
+431401,12,Tarragona,Baix Penedès,el Vendrell,Santa Oliva,3328,1681,1351,82,31,No,1,el Consell Comarcal,17.47,14,6.18,5,40
+430206,12,Tarragona,Baix Penedès,el Vendrell,Banyeres del Penedès,3128,1583,1260,77,29,No,1,el Consell Comarcal,17.47,13,6.18,5,40
+431378,12,Tarragona,Baix Penedès,el Vendrell,Sant Jaume dels Domenys,2551,1314,1007,61,23,No,1,el Consell Comarcal,17.47,11,6.18,4,40
+430022,12,Tarragona,Baix Penedès,el Vendrell,Albinyana,2371,1202,1003,61,23,No,1,el Consell Comarcal,17.47,11,6.18,4,40
+430748,12,Tarragona,Baix Penedès,el Vendrell,Llorenç del Penedès,2327,1146,998,61,23,No,1,el Consell Comarcal,17.47,11,6.18,4,40
+430249,12,Tarragona,Baix Penedès,el Vendrell,Bellvei,2190,1120,865,53,20,No,1,el Consell Comarcal,17.47,9,6.18,3,40
+430901,12,Tarragona,Baix Penedès,el Vendrell,el Montmell,1437,764,566,35,13,No,1,el Consell Comarcal,17.47,6,6.18,2,40
+430304,12,Tarragona,Baix Penedès,el Vendrell,Bonastre,687,350,274,17,6,No,1,el Consell Comarcal,17.47,3,6.18,1,40
+430799,12,Tarragona,Baix Penedès,el Vendrell,Masllorenç,498,275,193,12,4,No,1,el Consell Comarcal,17.47,2,6.18,1,40
+431536,36,Tarragona,Tarragonès,el Vendrell,Torredembarra,15992,7821,6927,423,159,Torredembarra,1,l'Ajuntament,17.47,74,2.65,11,21.7
+431310,36,Tarragona,Tarragonès,el Vendrell,Roda de Berà,6461,3305,2667,163,61,No,1,el Consell Comarcal,17.47,28,2.65,4,21.7
+430120,36,Tarragona,Tarragonès,el Vendrell,Altafulla,5120,2491,2169,132,50,No,1,el Consell Comarcal,17.47,23,2.65,4,21.7
+430509,36,Tarragona,Tarragonès,el Vendrell,Creixell,3526,1788,1486,91,34,No,1,el Consell Comarcal,17.47,16,2.65,2,21.7
+431114,36,Tarragona,Tarragonès,el Vendrell,la Pobla de Montornès,2828,1485,1131,69,26,No,1,el Consell Comarcal,17.47,12,2.65,2,21.7
+431264,36,Tarragona,Tarragonès,el Vendrell,la Riera de Gaià,1701,845,666,41,15,No,1,el Consell Comarcal,17.47,7,2.65,1,21.7
+430976,36,Tarragona,Tarragonès,el Vendrell,la Nou de Gaià,570,282,233,14,5,No,1,el Consell Comarcal,17.47,2,2.65,0,21.7
+431359,36,Tarragona,Tarragonès,el Vendrell,Salomó,564,298,216,13,5,No,1,el Consell Comarcal,17.47,2,2.65,0,21.7
+431649,36,Tarragona,Tarragonès,el Vendrell,Vespella de Gaià,410,229,152,9,3,No,1,el Consell Comarcal,17.47,2,2.65,0,21.7
+250582,18,Lleida,Garrigues,Lleida,les Borges Blanques,6002,3054,2516,153,58,les Borges Blanques,1,el Consell Comarcal,17.35,27,4.58,7,44
+251193,18,Lleida,Garrigues,Lleida,Juneda,3409,1785,1388,85,32,No,1,el Consell Comarcal,17.35,15,4.58,4,44
+250292,18,Lleida,Garrigues,Lleida,Arbeca,2162,1101,934,57,21,No,1,el Consell Comarcal,17.35,10,4.58,3,44
+250674,18,Lleida,Garrigues,Lleida,Castelldans,931,502,376,23,9,No,1,el Consell Comarcal,17.35,4,4.58,1,44
+250096,18,Lleida,Garrigues,Lleida,l'Albi,762,393,321,20,7,No,1,el Consell Comarcal,17.35,3,4.58,1,44
+251018,18,Lleida,Garrigues,Lleida,la Granadella,728,388,308,19,7,No,1,el Consell Comarcal,17.35,3,4.58,1,44
+250735,18,Lleida,Garrigues,Lleida,Cervià de les Garrigues,648,345,271,17,6,No,1,el Consell Comarcal,17.35,3,4.58,1,44
+252555,18,Lleida,Garrigues,Lleida,Vinaixa,482,252,217,13,5,No,1,el Consell Comarcal,17.35,2,4.58,1,44
+251180,18,Lleida,Garrigues,Lleida,Juncosa,393,211,163,10,4,No,1,el Consell Comarcal,17.35,2,4.58,0,44
+250061,18,Lleida,Garrigues,Lleida,l'Albagés,375,199,160,10,4,No,1,el Consell Comarcal,17.35,2,4.58,0,44
+250812,18,Lleida,Garrigues,Lleida,l'Espluga Calba,357,181,155,9,4,No,1,el Consell Comarcal,17.35,2,4.58,0,44
+252069,18,Lleida,Garrigues,Lleida,el Soleràs,328,175,133,8,3,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+251706,18,Lleida,Garrigues,Lleida,Bellaguarda,301,160,134,8,3,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+251804,18,Lleida,Garrigues,Lleida,Puiggròs,272,136,122,7,3,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+250560,18,Lleida,Garrigues,Lleida,Bovera,257,139,109,7,3,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+251538,18,Lleida,Garrigues,Lleida,els Omellons,212,114,90,5,2,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+251692,18,Lleida,Garrigues,Lleida,la Pobla de Cérvoles,191,107,79,5,2,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+252537,18,Lleida,Garrigues,Lleida,el Vilosell,168,85,77,5,2,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+250766,18,Lleida,Garrigues,Lleida,el Cogul,161,88,69,4,2,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+250925,18,Lleida,Garrigues,Lleida,la Floresta,154,83,63,4,1,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+252249,18,Lleida,Garrigues,Lleida,els Torms,151,83,65,4,1,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+251057,18,Lleida,Garrigues,Lleida,Granyena de les Garrigues,144,87,51,3,1,No,1,el Consell Comarcal,17.35,1,4.58,0,44
+252189,18,Lleida,Garrigues,Lleida,Tarrés,99,53,37,2,1,No,1,el Consell Comarcal,17.35,0,4.58,0,44
+250978,18,Lleida,Garrigues,Lleida,Fulleda,84,43,40,2,1,No,1,el Consell Comarcal,17.35,0,4.58,0,44
+251207,33,Lleida,Segrià,Lleida,Lleida,137856,68070,59281,3616,1363,Lleida,3,"l'Ajuntament, el Consell Comarcal i la Generalitat",17.35,627,2.48,90,18.5
+250117,33,Lleida,Segrià,Lleida,Alcarràs,9422,4876,3689,225,85,No,1,el Consell Comarcal,17.35,39,2.48,6,18.5
+250194,33,Lleida,Segrià,Lleida,Almacelles,6789,3554,2750,168,63,No,1,el Consell Comarcal,17.35,29,2.48,4,18.5
+250236,33,Lleida,Segrià,Lleida,Alpicat,6230,3129,2508,153,58,No,1,el Consell Comarcal,17.35,27,2.48,4,18.5
+252287,33,Lleida,Segrià,Lleida,Torrefarrera,4630,2353,1839,112,42,No,1,el Consell Comarcal,17.35,19,2.48,3,18.5
+250122,33,Lleida,Segrià,Lleida,Alcoletge,3419,1772,1340,82,31,No,1,el Consell Comarcal,17.35,14,2.48,2,18.5
+251898,33,Lleida,Segrià,Lleida,Rosselló,3130,1571,1290,79,30,No,1,el Consell Comarcal,17.35,14,2.48,2,18.5
+250387,33,Lleida,Segrià,Lleida,Aitona,2545,1328,1032,63,24,No,1,el Consell Comarcal,17.35,11,2.48,2,18.5
+250077,33,Lleida,Segrià,Lleida,Albatàrrec,2335,1205,946,58,22,No,1,el Consell Comarcal,17.35,10,2.48,1,18.5
+252326,33,Lleida,Segrià,Lleida,Torres de Segre,2307,1195,970,59,22,No,1,el Consell Comarcal,17.35,10,2.48,1,18.5
+252043,33,Lleida,Segrià,Lleida,Seròs,1889,1012,736,45,17,No,1,el Consell Comarcal,17.35,8,2.48,1,18.5
+252108,33,Lleida,Segrià,Lleida,Soses,1764,926,692,42,16,No,1,el Consell Comarcal,17.35,7,2.48,1,18.5
+250334,33,Lleida,Segrià,Lleida,Artesa de Lleida,1538,804,629,38,14,No,1,el Consell Comarcal,17.35,7,2.48,1,18.5
+250539,33,Lleida,Segrià,Lleida,Benavent de Segrià,1468,768,575,35,13,No,1,el Consell Comarcal,17.35,6,2.48,1,18.5
+250788,33,Lleida,Segrià,Lleida,Corbins,1431,777,555,34,13,No,1,el Consell Comarcal,17.35,6,2.48,1,18.5
+251826,33,Lleida,Segrià,Lleida,Puigverd de Lleida,1363,700,559,34,13,No,1,el Consell Comarcal,17.35,6,2.48,1,18.5
+259123,33,Lleida,Segrià,Lleida,Gimenells i el Pla de la Font,1108,587,451,28,10,No,1,el Consell Comarcal,17.35,5,2.48,1,18.5
+252542,33,Lleida,Segrià,Lleida,Vilanova de la Barca,1039,531,454,28,10,No,1,el Consell Comarcal,17.35,5,2.48,1,18.5
+251023,33,Lleida,Segrià,Lleida,la Granja d'Escarp,956,519,379,23,9,No,1,el Consell Comarcal,17.35,4,2.48,1,18.5
+251333,33,Lleida,Segrià,Lleida,Maials,931,511,368,22,8,No,1,el Consell Comarcal,17.35,4,2.48,1,18.5
+252115,33,Lleida,Segrià,Lleida,Sudanell,851,470,341,21,8,No,1,el Consell Comarcal,17.35,4,2.48,1,18.5
+250045,33,Lleida,Segrià,Lleida,els Alamús,796,421,318,19,7,No,1,el Consell Comarcal,17.35,3,2.48,0,18.5
+251312,33,Lleida,Segrià,Lleida,Massalcoreig,585,334,230,14,5,No,1,el Consell Comarcal,17.35,2,2.48,0,18.5
+251425,33,Lleida,Segrià,Lleida,Montoliu de Lleida,469,236,208,13,5,No,1,el Consell Comarcal,17.35,2,2.48,0,18.5
+251253,33,Lleida,Segrià,Lleida,Llardecans,460,239,202,12,5,No,1,el Consell Comarcal,17.35,2,2.48,0,18.5
+252332,33,Lleida,Segrià,Lleida,Torre-serona,386,202,161,10,4,No,1,el Consell Comarcal,17.35,2,2.48,0,18.5
+252000,33,Lleida,Segrià,Lleida,Sarroca de Lleida,361,198,152,9,3,No,1,el Consell Comarcal,17.35,2,2.48,0,18.5
+252120,33,Lleida,Segrià,Lleida,Sunyer,355,208,132,8,3,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+250208,33,Lleida,Segrià,Lleida,Almatret,314,174,138,8,3,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+250143,33,Lleida,Segrià,Lleida,Alfés,313,163,133,8,3,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+252265,33,Lleida,Segrià,Lleida,Torrebesses,289,153,121,7,3,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+250100,33,Lleida,Segrià,Lleida,Alcanó,232,118,102,6,2,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+250365,33,Lleida,Segrià,Lleida,Aspa,217,109,99,6,2,No,1,el Consell Comarcal,17.35,1,2.48,0,18.5
+251370,27,Lleida,Pla d'Urgell,Lleida,Mollerussa,14740,7543,5844,356,134,Mollerussa,1,el Consell Comarcal,17.35,62,2.17,8,20.4
+250485,27,Lleida,Pla d'Urgell,Lleida,Bell-lloc d'Urgell,2289,1129,983,60,23,No,1,el Consell Comarcal,17.35,10,2.17,1,20.4
+252304,27,Lleida,Pla d'Urgell,Lleida,Torregrossa,2190,1124,917,56,21,No,1,el Consell Comarcal,17.35,10,2.17,1,20.4
+251581,27,Lleida,Pla d'Urgell,Lleida,el Palau d'Anglesola,2163,1070,914,56,21,No,1,el Consell Comarcal,17.35,10,2.17,1,20.4
+250997,27,Lleida,Pla d'Urgell,Lleida,Golmés,1864,937,760,46,17,No,1,el Consell Comarcal,17.35,8,2.17,1,20.4
+251351,27,Lleida,Pla d'Urgell,Lleida,Miralcamp,1347,676,562,34,13,No,1,el Consell Comarcal,17.35,6,2.17,1,20.4
+250931,27,Lleida,Pla d'Urgell,Lleida,Fondarella,792,388,346,21,8,No,1,el Consell Comarcal,17.35,4,2.17,0,20.4
+252056,27,Lleida,Pla d'Urgell,Lleida,Sidamon,733,385,299,18,7,No,1,el Consell Comarcal,17.35,3,2.17,0,20.4
+430141,22,Tarragona,Montsià,Amposta,Amposta,20606,10351,8661,528,199,Amposta,1,el Consell Comarcal,16.45,87,1.66,9,17.8
+431362,22,Tarragona,Montsià,Amposta,Sant Carles de la Ràpita,14611,7123,6474,395,149,No,1,el Consell Comarcal,16.45,65,1.66,7,17.8
+430043,22,Tarragona,Montsià,Amposta,Alcanar,9402,4754,4008,244,92,No,1,el Consell Comarcal,16.45,40,1.66,4,17.8
+431567,22,Tarragona,Montsià,Amposta,Ulldecona,6240,3209,2590,158,60,No,1,el Consell Comarcal,16.45,26,1.66,3,17.8
+430445,22,Tarragona,Montsià,Amposta,la Sénia,5644,2840,2406,147,55,No,1,el Consell Comarcal,16.45,24,1.66,2,17.8
+431384,22,Tarragona,Montsià,Amposta,Santa Bàrbara,3777,1916,1581,96,36,No,1,el Consell Comarcal,16.45,16,1.66,2,17.8
+439023,22,Tarragona,Montsià,Amposta,Sant Jaume d'Enveja,3481,1734,1502,92,35,No,1,el Consell Comarcal,16.45,15,1.66,2,17.8
+430786,22,Tarragona,Montsià,Amposta,Masdenverge,1066,544,462,28,11,No,1,el Consell Comarcal,16.45,5,1.66,0,17.8
+430635,22,Tarragona,Montsià,Amposta,la Galera,719,372,313,19,7,No,1,el Consell Comarcal,16.45,3,1.66,0,17.8
+430688,22,Tarragona,Montsià,Amposta,Godall,591,291,266,16,6,No,1,el Consell Comarcal,16.45,3,1.66,0,17.8
+430770,22,Tarragona,Montsià,Amposta,Mas de Barberans,577,285,264,16,6,No,1,el Consell Comarcal,16.45,3,1.66,0,17.8
+430629,22,Tarragona,Montsià,Amposta,Freginals,369,188,168,10,4,No,1,el Consell Comarcal,16.45,2,1.66,0,17.8
+431346,1,Tarragona,Alt Camp,Tarragona,el Rourell,384,197,157,10,4,No,1,el Consell Comarcal,16.12,2,13.73,1,44.4
+431482,36,Tarragona,Tarragonès,Tarragona,Tarragona,132299,64282,57667,3518,1326,Tarragona,3,"l'Ajuntament, el Consell Comarcal i la Generalitat",16.12,567,2.65,93,21.7
+439057,36,Tarragona,Tarragonès,Tarragona,Salou,26775,13856,10919,666,251,Salou,1,l'Ajuntament,16.12,107,2.65,18,21.7
+431711,36,Tarragona,Tarragonès,Tarragona,Vila-seca,22107,11083,8968,547,206,No,1,el Consell Comarcal,16.12,88,2.65,15,21.7
+430477,36,Tarragona,Tarragonès,Tarragona,Constantí,6516,3411,2529,154,58,No,1,el Consell Comarcal,16.12,25,2.65,4,21.7
+439076,36,Tarragona,Tarragonès,Tarragona,la Canonja,5842,2858,2442,149,56,la Canonja,1,l'Ajuntament,16.12,24,2.65,4,21.7
+431009,36,Tarragona,Tarragonès,Tarragona,els Pallaresos,4739,2384,1866,114,43,No,1,el Consell Comarcal,16.12,18,2.65,3,21.7
+430430,36,Tarragona,Tarragonès,Tarragona,el Catllar,4344,2253,1765,108,41,No,1,el Consell Comarcal,16.12,17,2.65,3,21.7
+431093,36,Tarragona,Tarragonès,Tarragona,la Pobla de Mafumet,3893,1981,1517,93,35,No,1,el Consell Comarcal,16.12,15,2.65,2,21.7
+430957,36,Tarragona,Tarragonès,Tarragona,el Morell,3649,1848,1455,89,33,No,1,el Consell Comarcal,16.12,14,2.65,2,21.7
+431444,36,Tarragona,Tarragonès,Tarragona,la Secuita,1697,846,691,42,16,No,1,el Consell Comarcal,16.12,7,2.65,1,21.7
+431037,36,Tarragona,Tarragonès,Tarragona,Perafort,1265,657,493,30,11,No,1,el Consell Comarcal,16.12,5,2.65,1,21.7
+431227,36,Tarragona,Tarragonès,Tarragona,Renau,153,80,60,4,1,No,1,el Consell Comarcal,16.12,1,2.65,0,21.7
+431233,8,Tarragona,Baix Camp,Reus,Reus,103477,50030,44819,2734,1031,Reus,2,l'Ajuntament i el Consell Comarcal,15.74,430,7.88,215,47.6
+430385,8,Tarragona,Baix Camp,Reus,Cambrils,33362,16307,14185,865,326,Cambrils,1,l'Ajuntament,15.74,136,7.88,68,47.6
+430923,8,Tarragona,Baix Camp,Reus,Mont-roig del Camp,11809,6140,4799,293,110,No,1,el Consell Comarcal,15.74,46,7.88,23,47.6
+431299,8,Tarragona,Baix Camp,Reus,Riudoms,6565,3375,2668,163,61,No,1,el Consell Comarcal,15.74,26,7.88,13,47.6
+431628,8,Tarragona,Baix Camp,Reus,Vandellòs i l'Hospitalet de l'Infant,6386,3195,2666,163,61,No,1,el Consell Comarcal,15.74,26,7.88,13,47.6
+431457,8,Tarragona,Baix Camp,Reus,la Selva del Camp,5632,2824,2344,143,54,No,1,el Consell Comarcal,15.74,23,7.88,11,47.6
+430424,8,Tarragona,Baix Camp,Reus,Castellvell del Camp,2868,1438,1199,73,28,No,1,el Consell Comarcal,15.74,12,7.88,6,47.6
+430884,8,Tarragona,Baix Camp,Reus,Montbrió del Camp,2828,1456,1121,68,26,No,1,el Consell Comarcal,15.74,11,7.88,5,47.6
+430311,8,Tarragona,Baix Camp,Reus,les Borges del Camp,2080,1060,850,52,20,No,1,el Consell Comarcal,15.74,8,7.88,4,47.6
+431785,8,Tarragona,Baix Camp,Reus,Vinyols i els Arcs,1974,1030,790,48,18,No,1,el Consell Comarcal,15.74,8,7.88,4,47.6
+430094,8,Tarragona,Baix Camp,Reus,Alforja,1788,916,750,46,17,No,1,el Consell Comarcal,15.74,7,7.88,4,47.6
+430115,8,Tarragona,Baix Camp,Reus,Almoster,1342,671,578,35,13,No,1,el Consell Comarcal,15.74,6,7.88,3,47.6
+431286,8,Tarragona,Baix Camp,Reus,Riudecols,1186,622,483,29,11,No,1,el Consell Comarcal,15.74,5,7.88,2,47.6
+431270,8,Tarragona,Baix Camp,Reus,Riudecanyes,1131,591,453,28,10,No,1,el Consell Comarcal,15.74,4,7.88,2,47.6
+430332,8,Tarragona,Baix Camp,Reus,Botarell,1070,554,411,25,9,No,1,el Consell Comarcal,15.74,4,7.88,2,47.6
+430075,8,Tarragona,Baix Camp,Reus,l'Aleixar,864,442,351,21,8,No,1,el Consell Comarcal,15.74,3,7.88,2,47.6
+430810,8,Tarragona,Baix Camp,Reus,Maspujols,799,410,322,20,7,No,1,el Consell Comarcal,15.74,3,7.88,2,47.6
+431188,8,Tarragona,Baix Camp,Reus,Pratdip,709,374,297,18,7,No,1,el Consell Comarcal,15.74,3,7.88,1,47.6
+431166,8,Tarragona,Baix Camp,Reus,Prades,589,307,248,15,6,No,1,el Consell Comarcal,15.74,2,7.88,1,47.6
+431690,8,Tarragona,Baix Camp,Reus,Vilaplana,579,299,244,15,6,No,1,el Consell Comarcal,15.74,2,7.88,1,47.6
+431671,8,Tarragona,Baix Camp,Reus,Vilanova d'Escornalbou,549,285,223,14,5,No,1,el Consell Comarcal,15.74,2,7.88,1,47.6
+430038,8,Tarragona,Baix Camp,Reus,l'Albiol,464,238,183,11,4,No,1,el Consell Comarcal,15.74,2,7.88,1,47.6
+430537,8,Tarragona,Baix Camp,Reus,Duesaigües,237,137,88,5,2,No,1,el Consell Comarcal,15.74,1,7.88,0,47.6
+430458,8,Tarragona,Baix Camp,Reus,Colldejou,170,90,73,4,2,No,1,el Consell Comarcal,15.74,1,7.88,0,47.6
+430173,8,Tarragona,Baix Camp,Reus,l'Argentera,129,74,50,3,1,No,1,el Consell Comarcal,15.74,0,7.88,0,47.6
+430154,8,Tarragona,Baix Camp,Reus,Arbolí,116,68,45,3,1,No,1,el Consell Comarcal,15.74,0,7.88,0,47.6
+430398,8,Tarragona,Baix Camp,Reus,Capafonts,96,51,42,3,1,No,1,el Consell Comarcal,15.74,0,7.88,0,47.6
+430574,8,Tarragona,Baix Camp,Reus,la Febró,42,27,14,1,0,No,1,el Consell Comarcal,15.74,0,7.88,0,47.6
+82457,13,Barcelona,Barcelonès,Santa Coloma de Gramenet,Santa Coloma de Gramenet,118821,58849,51060,3115,1174,Santa Coloma de Gramenet,1,l'Ajuntament,14.9,464,2.36,74,28.2
+81249,41,Barcelona,Vallès Oriental,Mollet del Vallès,Mollet del Vallès,51133,25152,21924,1337,504,Mollet del Vallès,1,l'Ajuntament,14.3,191,6.17,83,43.2
+81593,41,Barcelona,Vallès Oriental,Mollet del Vallès,Parets del Vallès,19041,9551,7887,481,181,No,1,el Consell Comarcal,14.3,69,6.17,30,43.2
+81056,41,Barcelona,Vallès Oriental,Mollet del Vallès,la Llagosta,13367,6595,5666,346,130,la Llagosta,1,l'Ajuntament,14.3,49,6.17,21,43.2
+81350,41,Barcelona,Vallès Oriental,Mollet del Vallès,Montmeló,8784,4298,3849,235,89,No,1,el Consell Comarcal,14.3,34,6.17,14,43.2
+82093,41,Barcelona,Vallès Oriental,Mollet del Vallès,Sant Fost de Campsentelles,8722,4330,3760,229,86,No,1,el Consell Comarcal,14.3,33,6.17,14,43.2
+81154,41,Barcelona,Vallès Oriental,Mollet del Vallès,Martorelles,4794,2410,2062,126,47,Martorelles,1,l'Ajuntament,14.3,18,6.17,8,43.2
+82567,41,Barcelona,Vallès Oriental,Mollet del Vallès,Santa Maria de Martorelles,882,439,369,23,8,No,1,el Consell Comarcal,14.3,3,6.17,1,43.2
+431613,1,Tarragona,Alt Camp,Valls,Valls,24156,12031,10216,623,235,Valls,2,l'Ajuntament i el Consell Comarcal,14.2,88,13.73,86,44.4
+430056,1,Tarragona,Alt Camp,Valls,Alcover,5108,2533,2131,130,49,No,1,el Consell Comarcal,14.2,18,13.73,18,44.4
+431080,1,Tarragona,Alt Camp,Valls,el Pla de Santa Maria,2305,1195,942,57,22,No,1,el Consell Comarcal,14.2,8,13.73,8,44.4
+431606,1,Tarragona,Alt Camp,Valls,Vallmoll,1738,879,717,44,16,No,1,el Consell Comarcal,14.2,6,13.73,6,44.4
+431704,1,Tarragona,Alt Camp,Valls,Vila-rodona,1253,655,503,31,12,No,1,el Consell Comarcal,14.2,4,13.73,4,44.4
+431191,1,Tarragona,Alt Camp,Valls,Puigpelat,1151,586,453,28,10,No,1,el Consell Comarcal,14.2,4,13.73,4,44.4
+430363,1,Tarragona,Alt Camp,Valls,Cabra del Camp,1141,597,463,28,11,No,1,el Consell Comarcal,14.2,4,13.73,4,44.4
+431652,1,Tarragona,Alt Camp,Valls,Vilabella,746,386,316,19,7,No,1,el Consell Comarcal,14.2,3,13.73,3,44.4
+430347,1,Tarragona,Alt Camp,Valls,Bràfim,673,333,281,17,6,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+431248,1,Tarragona,Alt Camp,Valls,la Riba,576,318,232,14,5,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+431205,1,Tarragona,Alt Camp,Valls,Querol,521,296,205,13,5,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+431135,1,Tarragona,Alt Camp,Valls,el Pont d'Armentera,512,259,226,14,5,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+431325,1,Tarragona,Alt Camp,Valls,Rodonyà,480,258,199,12,5,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+430982,1,Tarragona,Alt Camp,Valls,Nulles,477,256,185,11,4,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+430108,1,Tarragona,Alt Camp,Valls,Alió,426,200,182,11,4,No,1,el Consell Comarcal,14.2,2,13.73,2,44.4
+430593,1,Tarragona,Alt Camp,Valls,Figuerola del Camp,315,156,133,8,3,No,1,el Consell Comarcal,14.2,1,13.73,1,44.4
+430803,1,Tarragona,Alt Camp,Valls,la Masó,276,150,110,7,3,No,1,el Consell Comarcal,14.2,1,13.73,1,44.4
+430666,1,Tarragona,Alt Camp,Valls,els Garidells,201,97,92,6,2,No,1,el Consell Comarcal,14.2,1,13.73,1,44.4
+430831,1,Tarragona,Alt Camp,Valls,el Milà,183,90,77,5,2,No,1,el Consell Comarcal,14.2,1,13.73,1,44.4
+430918,1,Tarragona,Alt Camp,Valls,Mont-ral,167,98,58,4,1,No,1,el Consell Comarcal,14.2,1,13.73,0,44.4
+430862,16,Tarragona,Conca de Barberà,Valls,Montblanc,7384,3738,3123,191,72,Montblanc,1,el Consell Comarcal,14.2,27,10.83,21,37.3
+430542,16,Tarragona,Conca de Barberà,Valls,l'Espluga de Francolí,3742,1810,1651,101,38,No,1,el Consell Comarcal,14.2,14,10.83,11,37.3
+431397,16,Tarragona,Conca de Barberà,Valls,Santa Coloma de Queralt,2697,1336,1168,71,27,No,1,el Consell Comarcal,14.2,10,10.83,8,37.3
+431423,16,Tarragona,Conca de Barberà,Valls,Sarral,1544,779,623,38,14,No,1,el Consell Comarcal,14.2,5,10.83,4,37.3
+431763,16,Tarragona,Conca de Barberà,Valls,Vimbodí i Poblet,917,505,370,23,9,No,1,el Consell Comarcal,14.2,3,10.83,2,37.3
+431476,16,Tarragona,Conca de Barberà,Valls,Solivella,619,318,273,17,6,No,1,el Consell Comarcal,14.2,2,10.83,2,37.3
+431074,16,Tarragona,Conca de Barberà,Valls,Pira,503,268,196,12,5,No,1,el Consell Comarcal,14.2,2,10.83,1,37.3
+430213,16,Tarragona,Conca de Barberà,Valls,Barberà de la Conca,476,258,182,11,4,No,1,el Consell Comarcal,14.2,2,10.83,1,37.3
+431726,16,Tarragona,Conca de Barberà,Valls,Vilaverd,456,237,184,11,4,No,1,el Consell Comarcal,14.2,2,10.83,1,37.3
+430290,16,Tarragona,Conca de Barberà,Valls,Blancafort,379,198,162,10,4,No,1,el Consell Comarcal,14.2,1,10.83,1,37.3
+431303,16,Tarragona,Conca de Barberà,Valls,Rocafort de Queralt,260,140,103,6,2,No,1,el Consell Comarcal,14.2,1,10.83,1,37.3
+431055,16,Tarragona,Conca de Barberà,Valls,les Piles,210,115,78,5,2,No,1,el Consell Comarcal,14.2,1,10.83,1,37.3
+431016,16,Tarragona,Conca de Barberà,Valls,Passanant i Belltall,150,87,61,4,1,No,1,el Consell Comarcal,14.2,1,10.83,0,37.3
+431687,16,Tarragona,Conca de Barberà,Valls,Vilanova de Prades,117,63,46,3,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431418,16,Tarragona,Conca de Barberà,Valls,Pontils,114,63,48,3,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+430461,16,Tarragona,Conca de Barberà,Valls,Conesa,103,54,48,3,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+430733,16,Tarragona,Conca de Barberà,Valls,Llorac,100,56,41,3,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431589,16,Tarragona,Conca de Barberà,Valls,Vallclara,98,59,32,2,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431592,16,Tarragona,Conca de Barberà,Valls,Vallfogona de Riucorb,85,51,34,2,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431439,16,Tarragona,Conca de Barberà,Valls,Savallà del Comtat,60,32,28,2,1,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431460,16,Tarragona,Conca de Barberà,Valls,Senan,47,32,12,1,0,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+430614,16,Tarragona,Conca de Barberà,Valls,Forès,42,25,17,1,0,No,1,el Consell Comarcal,14.2,0,10.83,0,37.3
+431665,36,Tarragona,Tarragonès,Valls,Vilallonga del Camp,2339,1185,928,57,21,No,1,el Consell Comarcal,14.2,8,2.65,2,21.7
+80734,11,Barcelona,Baix Llobregat,Cornellà de Llobregat,Cornellà de Llobregat,87173,42226,38491,2348,885,Cornellà de Llobregat,1,l'Ajuntament,13.42,315,7.5,176,33.3
+80826,34,Barcelona,Selva,Arenys de Mar,Fogars de la Selva,1467,753,604,37,14,No,1,el Consell Comarcal,13.29,5,6.28,2,47.5
+81635,21,Barcelona,Maresme,Arenys de Mar,Pineda de Mar,26659,13254,11504,702,265,Pineda de Mar,1,l'Ajuntament,13.29,93,2.36,17,32.6
+80351,21,Barcelona,Maresme,Arenys de Mar,Calella,18728,9152,8261,504,190,No,1,el Consell Comarcal,13.29,67,2.36,12,32.6
+81108,21,Barcelona,Maresme,Arenys de Mar,Malgrat de Mar,18439,9217,7899,482,182,No,1,el Consell Comarcal,13.29,64,2.36,11,32.6
+82845,21,Barcelona,Maresme,Arenys de Mar,Tordera,16937,8576,6964,425,160,No,1,el Consell Comarcal,13.29,56,2.36,10,32.6
+80060,21,Barcelona,Maresme,Arenys de Mar,Arenys de Mar,15533,7536,6965,425,160,No,1,el Consell Comarcal,13.29,56,2.36,10,32.6
+80403,21,Barcelona,Maresme,Arenys de Mar,Canet de Mar,14583,7075,6404,391,147,No,1,el Consell Comarcal,13.29,52,2.36,9,32.6
+81555,21,Barcelona,Maresme,Arenys de Mar,Palafolls,9256,4652,3789,231,87,No,1,el Consell Comarcal,13.29,31,2.36,5,32.6
+80076,21,Barcelona,Maresme,Arenys de Mar,Arenys de Munt,8838,4439,3715,227,85,No,1,el Consell Comarcal,13.29,30,2.36,5,32.6
+82359,21,Barcelona,Maresme,Arenys de Mar,Sant Pol de Mar,5178,2563,2234,136,51,No,1,el Consell Comarcal,13.29,18,2.36,3,32.6
+82613,21,Barcelona,Maresme,Arenys de Mar,Santa Susanna,3381,1700,1408,86,32,No,1,el Consell Comarcal,13.29,11,2.36,2,32.6
+82037,21,Barcelona,Maresme,Arenys de Mar,Sant Cebrià de Vallalta,3344,1743,1298,79,30,No,1,el Consell Comarcal,13.29,11,2.36,2,32.6
+81939,21,Barcelona,Maresme,Arenys de Mar,Sant Iscle de Vallalta,1313,677,519,32,12,No,1,el Consell Comarcal,13.29,4,2.36,1,32.6
+431554,9,Tarragona,Baix Ebre,Tortosa,Tortosa,33510,16607,14405,879,331,Tortosa,3,"l'Ajuntament, el Consell Comarcal i la Generalitat",13.13,115,4.59,40,23.3
+439018,9,Tarragona,Baix Ebre,Tortosa,Deltebre,11505,5792,4918,300,113,No,1,el Consell Comarcal,13.13,39,4.59,14,23.3
+431331,9,Tarragona,Baix Ebre,Tortosa,Roquetes,7961,4111,3235,197,74,No,1,el Consell Comarcal,13.13,26,4.59,9,23.3
+430136,9,Tarragona,Baix Ebre,Tortosa,l'Ametlla de Mar,6801,3398,2922,178,67,No,1,el Consell Comarcal,13.13,23,4.59,8,23.3
+439044,9,Tarragona,Baix Ebre,Tortosa,l'Aldea,4137,2186,1680,102,39,No,1,el Consell Comarcal,13.13,13,4.59,5,23.3
+439060,9,Tarragona,Baix Ebre,Tortosa,l'Ampolla,3280,1670,1411,86,32,No,1,el Consell Comarcal,13.13,11,4.59,4,23.3
+439039,9,Tarragona,Baix Ebre,Tortosa,Camarles,3278,1666,1410,86,32,No,1,el Consell Comarcal,13.13,11,4.59,4,23.3
+431042,9,Tarragona,Baix Ebre,Tortosa,el Perelló,2863,1478,1186,72,27,No,1,el Consell Comarcal,13.13,9,4.59,3,23.3
+430521,9,Tarragona,Baix Ebre,Tortosa,Xerta,1170,570,536,33,12,No,1,el Consell Comarcal,13.13,4,4.59,2,23.3
+431495,9,Tarragona,Baix Ebre,Tortosa,Tivenys,882,451,386,24,9,No,1,el Consell Comarcal,13.13,3,4.59,1,23.3
+430069,9,Tarragona,Baix Ebre,Tortosa,Aldover,838,420,377,23,9,No,1,el Consell Comarcal,13.13,3,4.59,1,23.3
+430252,9,Tarragona,Baix Ebre,Tortosa,Benifallet,714,342,341,21,8,No,1,el Consell Comarcal,13.13,3,4.59,1,23.3
+431021,9,Tarragona,Baix Ebre,Tortosa,Paüls,561,274,257,16,6,No,1,el Consell Comarcal,13.13,2,4.59,1,23.3
+430081,9,Tarragona,Baix Ebre,Tortosa,Alfara de Carles,368,195,153,9,4,No,1,el Consell Comarcal,13.13,1,4.59,0,23.3
+80569,11,Barcelona,Baix Llobregat,Gavà,Castelldefels,66375,32747,28292,1726,651,Castelldefels,1,l'Ajuntament,13.05,225,7.5,129,33.3
+83015,11,Barcelona,Baix Llobregat,Gavà,Viladecans,66168,32785,27792,1695,639,Viladecans,1,l'Ajuntament,13.05,221,7.5,127,33.3
+80898,11,Barcelona,Baix Llobregat,Gavà,Gavà,46705,22916,20055,1223,461,Gavà,1,l'Ajuntament,13.05,160,7.5,92,33.3
+80207,11,Barcelona,Baix Llobregat,Gavà,Begues,6961,3440,2867,175,66,No,1,el Consell Comarcal,13.05,23,7.5,13,33.3
+170669,2,Girona,Alt Empordà,Figueres,Figueres,46381,22917,19396,1183,446,Figueres,2,l'Ajuntament i el Consell Comarcal,13,154,4.62,55,66.1
+171523,2,Girona,Alt Empordà,Figueres,Roses,19319,9713,8062,492,185,Roses,1,l'Ajuntament,13,64,4.62,23,66.1
+170470,2,Girona,Alt Empordà,Figueres,Castelló d'Empúries,10820,5495,4475,273,103,No,1,el Consell Comarcal,13,35,4.62,13,66.1
+170622,2,Girona,Alt Empordà,Figueres,l'Escala,10417,5308,4413,269,101,No,1,el Consell Comarcal,13,35,4.62,12,66.1
+172214,2,Girona,Alt Empordà,Figueres,Vilafant,5443,2658,2366,144,54,No,1,el Consell Comarcal,13,19,4.62,7,66.1
+170926,2,Girona,Alt Empordà,Figueres,Llançà,4868,2412,2132,130,49,No,1,el Consell Comarcal,13,17,4.62,6,66.1
+170865,2,Girona,Alt Empordà,Figueres,la Jonquera,3233,1620,1338,82,31,No,1,el Consell Comarcal,13,11,4.62,4,66.1
+170329,2,Girona,Alt Empordà,Figueres,Cadaqués,2752,1344,1208,74,28,No,1,el Consell Comarcal,13,10,4.62,3,66.1
+171788,2,Girona,Alt Empordà,Figueres,Sant Pere Pescador,2039,1088,796,49,18,No,1,el Consell Comarcal,13,6,4.62,2,66.1
+171328,2,Girona,Alt Empordà,Figueres,Peralada,1868,916,814,50,19,No,1,el Consell Comarcal,13,6,4.62,2,66.1
+170123,2,Girona,Alt Empordà,Figueres,Avinyonet de Puigventós,1604,803,648,40,15,No,1,el Consell Comarcal,13,5,4.62,2,66.1
+171208,2,Girona,Alt Empordà,Figueres,Palau-saverdera,1439,718,602,37,14,No,1,el Consell Comarcal,13,5,4.62,2,66.1
+171117,2,Girona,Alt Empordà,Figueres,Navata,1313,647,558,34,13,No,1,el Consell Comarcal,13,4,4.62,2,66.1
+170932,2,Girona,Alt Empordà,Figueres,Llers,1239,617,534,33,12,No,1,el Consell Comarcal,13,4,4.62,2,66.1
+172266,2,Girona,Alt Empordà,Figueres,Vilamalla,1157,581,476,29,11,No,1,el Consell Comarcal,13,4,4.62,1,66.1
+172235,2,Girona,Alt Empordà,Figueres,Vilajuïga,1112,552,473,29,11,No,1,el Consell Comarcal,13,4,4.62,1,66.1
+171387,2,Girona,Alt Empordà,Figueres,Portbou,1077,525,499,30,11,No,1,el Consell Comarcal,13,4,4.62,1,66.1
+170160,2,Girona,Alt Empordà,Figueres,Bàscara,1000,521,414,25,10,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+171404,2,Girona,Alt Empordà,Figueres,el Port de la Selva,980,502,423,26,10,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+172142,2,Girona,Alt Empordà,Figueres,Vilabertran,951,486,386,24,9,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+170307,2,Girona,Alt Empordà,Figueres,Cabanes,944,502,372,23,9,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+170118,2,Girona,Alt Empordà,Figueres,l'Armentera,937,468,386,24,9,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+172109,2,Girona,Alt Empordà,Figueres,Ventalló,854,432,352,21,8,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+171870,2,Girona,Alt Empordà,Figueres,"Saus, Camallera i Llampaies",848,419,363,22,8,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+170010,2,Girona,Alt Empordà,Figueres,Agullana,841,418,349,21,8,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+170773,2,Girona,Alt Empordà,Figueres,Garriguella,840,416,361,22,8,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+170887,2,Girona,Alt Empordà,Figueres,Lladó,787,386,316,19,7,No,1,el Consell Comarcal,13,3,4.62,1,66.1
+171753,2,Girona,Alt Empordà,Figueres,Sant Miquel de Fluvià,746,395,296,18,7,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170741,2,Girona,Alt Empordà,Figueres,Fortià,732,362,310,19,7,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+171984,2,Girona,Alt Empordà,Figueres,Torroella de Fluvià,723,365,296,18,7,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+172305,2,Girona,Alt Empordà,Figueres,Vila-sacra,709,348,282,17,6,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170268,2,Girona,Alt Empordà,Figueres,Borrassà,702,369,274,17,6,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+171024,2,Girona,Alt Empordà,Figueres,Maçanet de Cabrenys,681,336,312,19,7,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+171582,2,Girona,Alt Empordà,Figueres,Sant Climent Sescebes,635,368,223,14,5,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170427,2,Girona,Alt Empordà,Figueres,Capmany,613,308,254,15,6,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170059,2,Girona,Alt Empordà,Figueres,el Far d'Empordà,576,287,238,15,5,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170600,2,Girona,Alt Empordà,Figueres,Darnius,557,276,244,15,6,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+171289,2,Girona,Alt Empordà,Figueres,Pau,547,278,233,14,5,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+171352,2,Girona,Alt Empordà,Figueres,Pont de Molins,530,265,222,14,5,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+172174,2,Girona,Alt Empordà,Figueres,Viladamat,466,246,190,12,4,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170545,2,Girona,Alt Empordà,Figueres,Colera,465,235,209,13,5,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+170754,2,Girona,Alt Empordà,Figueres,Garrigàs,439,226,181,11,4,No,1,el Consell Comarcal,13,1,4.62,1,66.1
+170643,2,Girona,Alt Empordà,Figueres,Espolla,425,210,193,12,4,No,1,el Consell Comarcal,13,2,4.62,1,66.1
+172288,2,Girona,Alt Empordà,Figueres,Vilanant,399,198,162,10,4,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171156,2,Girona,Alt Empordà,Figueres,Ordis,382,202,153,9,4,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171827,2,Girona,Alt Empordà,Figueres,Santa Llogaia d'Àlguema,363,191,138,8,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171962,2,Girona,Alt Empordà,Figueres,Terrades,314,149,138,8,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+170412,2,Girona,Alt Empordà,Figueres,Cantallops,313,155,133,8,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+172253,2,Girona,Alt Empordà,Figueres,Vilamacolum,312,167,118,7,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+170519,2,Girona,Alt Empordà,Figueres,Cistella,300,148,126,8,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+170314,2,Girona,Alt Empordà,Figueres,Cabanelles,273,153,105,6,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171002,2,Girona,Alt Empordà,Figueres,Masarac,272,140,115,7,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+170293,2,Girona,Alt Empordà,Figueres,Boadella i les Escaules,269,139,110,7,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171518,2,Girona,Alt Empordà,Figueres,Riumors,263,132,114,7,3,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171714,2,Girona,Alt Empordà,Figueres,Sant Llorenç de la Muga,251,131,105,6,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171365,2,Girona,Alt Empordà,Figueres,Pontós,247,135,97,6,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+172348,2,Girona,Alt Empordà,Figueres,Biure,238,120,105,6,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+172272,2,Girona,Alt Empordà,Figueres,Vilamaniscle,208,116,77,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171292,2,Girona,Alt Empordà,Figueres,Pedret i Marzà,195,101,80,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171061,2,Girona,Alt Empordà,Figueres,Mollet de Peralada,190,98,78,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171886,2,Girona,Alt Empordà,Figueres,la Selva de Mar,187,106,78,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171432,2,Girona,Alt Empordà,Figueres,Rabós,179,90,81,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+171766,2,Girona,Alt Empordà,Figueres,Sant Mori,177,93,72,4,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+170524,2,Girona,Alt Empordà,Figueres,Siurana,162,77,74,5,2,No,1,el Consell Comarcal,13,1,4.62,0,66.1
+172229,2,Girona,Alt Empordà,Figueres,Vilaür,147,77,57,3,1,No,1,el Consell Comarcal,13,0,4.62,0,66.1
+170031,2,Girona,Alt Empordà,Figueres,Albanyà,139,72,50,3,1,No,1,el Consell Comarcal,13,0,4.62,0,66.1
+171194,2,Girona,Alt Empordà,Figueres,Palau de Santa Eulàlia,95,56,36,2,1,No,1,el Consell Comarcal,13,0,4.62,0,66.1
+170144,2,Girona,Alt Empordà,Figueres,la Vajol,85,46,36,2,1,No,1,el Consell Comarcal,13,0,4.62,0,66.1
+81136,7,Barcelona,Bages,Manresa,Manresa,76250,37311,33116,2020,762,Manresa,2,l'Ajuntament i el Consell Comarcal,12.99,262,7.08,143,71.6
+82188,7,Barcelona,Bages,Manresa,Sant Joan de Vilatorrada,10820,5422,4540,277,104,No,1,el Consell Comarcal,12.99,36,7.08,20,71.6
+82628,7,Barcelona,Bages,Manresa,Sant Vicenç de Castellet,9274,4620,3967,242,91,No,1,el Consell Comarcal,12.99,31,7.08,17,71.6
+82135,7,Barcelona,Bages,Manresa,Sant Fruitós de Bages,8593,4256,3598,219,83,No,1,el Consell Comarcal,12.99,29,7.08,16,71.6
+81923,7,Barcelona,Bages,Manresa,Santpedor,7532,3739,3143,192,72,No,1,el Consell Comarcal,12.99,25,7.08,14,71.6
+81918,7,Barcelona,Bages,Manresa,Sallent,6636,3194,2979,182,69,No,1,el Consell Comarcal,12.99,24,7.08,13,71.6
+81419,7,Barcelona,Bages,Manresa,Navàs,6023,2988,2567,157,59,No,1,el Consell Comarcal,12.99,20,7.08,11,71.6
+81402,7,Barcelona,Bages,Manresa,Navarcles,5966,2917,2609,159,60,No,1,el Consell Comarcal,12.99,21,7.08,11,71.6
+82747,7,Barcelona,Bages,Manresa,Súria,5895,2874,2636,161,61,No,1,el Consell Comarcal,12.99,21,7.08,11,71.6
+80109,7,Barcelona,Bages,Manresa,Artés,5648,2851,2357,144,54,No,1,el Consell Comarcal,12.99,19,7.08,10,71.6
+80478,7,Barcelona,Bages,Manresa,Cardona,4652,2271,2080,127,48,No,1,el Consell Comarcal,12.99,16,7.08,9,71.6
+81825,7,Barcelona,Bages,Manresa,el Pont de Vilomara i Rocafort,3801,1959,1533,94,35,No,1,el Consell Comarcal,12.99,12,7.08,7,71.6
+80538,7,Barcelona,Bages,Manresa,Castellbell i el Vilar,3599,1841,1464,89,34,No,1,el Consell Comarcal,12.99,12,7.08,6,71.6
+80180,7,Barcelona,Bages,Manresa,Balsareny,3205,1586,1413,86,32,No,1,el Consell Comarcal,12.99,11,7.08,6,71.6
+80983,7,Barcelona,Bages,Manresa,Sant Salvador de Guardiola,3168,1624,1279,78,29,No,1,el Consell Comarcal,12.99,10,7.08,6,71.6
+81271,7,Barcelona,Bages,Manresa,Monistrol de Montserrat,2955,1501,1240,76,29,No,1,el Consell Comarcal,12.99,10,7.08,5,71.6
+80121,7,Barcelona,Bages,Manresa,Avinyó,2250,1120,974,59,22,No,1,el Consell Comarcal,12.99,8,7.08,4,71.6
+80386,7,Barcelona,Bages,Manresa,Callús,2095,1025,875,53,20,No,1,el Consell Comarcal,12.99,7,7.08,4,71.6
+80615,7,Barcelona,Bages,Manresa,Castellgalí,2053,1065,824,50,19,No,1,el Consell Comarcal,12.99,7,7.08,4,71.6
+80847,7,Barcelona,Bages,Manresa,Fonollosa,1439,743,597,36,14,No,1,el Consell Comarcal,12.99,5,7.08,3,71.6
+80620,7,Barcelona,Bages,Manresa,Castellnou de Bages,1319,666,512,31,12,No,1,el Consell Comarcal,12.99,4,7.08,2,71.6
+82299,7,Barcelona,Bages,Manresa,Sant Mateu de Bages,600,300,272,17,6,No,1,el Consell Comarcal,12.99,2,7.08,1,71.6
+82129,7,Barcelona,Bages,Manresa,Sant Feliu Sasserra,600,316,252,15,6,No,1,el Consell Comarcal,12.99,2,7.08,1,71.6
+81786,7,Barcelona,Bages,Manresa,Rajadell,539,274,224,14,5,No,1,el Consell Comarcal,12.99,2,7.08,1,71.6
+80594,7,Barcelona,Bages,Manresa,Castellfollit del Boix,446,228,184,11,4,No,1,el Consell Comarcal,12.99,1,7.08,1,71.6
+80023,7,Barcelona,Bages,Manresa,Aguilar de Segarra,277,148,107,7,2,No,1,el Consell Comarcal,12.99,1,7.08,0,71.6
+82423,7,Barcelona,Bages,Manresa,Marganell,258,127,122,7,3,No,1,el Consell Comarcal,12.99,1,7.08,1,71.6
+81398,7,Barcelona,Bages,Manresa,Mura,223,121,87,5,2,No,1,el Consell Comarcal,12.99,1,7.08,0,71.6
+82779,7,Barcelona,Bages,Manresa,Talamanca,202,115,74,5,2,No,1,el Consell Comarcal,12.99,1,7.08,0,71.6
+80902,7,Barcelona,Bages,Manresa,Gaià,167,93,60,4,1,No,1,el Consell Comarcal,12.99,0,7.08,0,71.6
+81385,42,Barcelona,Moianès,Manresa,Moià,6190,3147,2529,154,58,No,0,,12.99,20,0.3,0,2.2
+82589,42,Barcelona,Moianès,Manresa,Santa Maria d'Oló,1024,516,439,27,10,No,0,,12.99,3,0.3,0,2.2
+80348,42,Barcelona,Moianès,Manresa,Calders,946,488,388,24,9,No,0,,12.99,3,0.3,0,2.2
+81287,42,Barcelona,Moianès,Manresa,Monistrol de Calders,677,357,292,18,7,No,0,,12.99,2,0.3,0,2.2
+80790,42,Barcelona,Moianès,Manresa,l'Estany,393,193,180,11,4,No,0,,12.99,1,0.3,0,2.2
+83054,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Vilafranca del Penedès,40055,19552,17125,1045,394,Vilafranca del Penedès,2,l'Ajuntament i el Consell Comarcal,12.35,129,10.74,112,75.6
+82401,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Sadurní d'Anoia,12866,6322,5460,333,126,Sant Sadurní d'Anoia,1,l'Ajuntament,12.35,41,10.74,36,75.6
+82515,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Santa Margarida i els Monjos,7503,3802,2956,180,68,No,1,el Consell Comarcal,12.35,22,10.74,19,75.6
+80919,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Gelida,7371,3700,3031,185,70,No,1,el Consell Comarcal,12.35,23,10.74,20,75.6
+81458,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Olèrdola,3611,1855,1447,88,33,No,1,el Consell Comarcal,12.35,11,10.74,9,75.6
+82270,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Martí Sarroca,3231,1591,1357,83,31,No,1,el Consell Comarcal,12.35,10,10.74,9,75.6
+82732,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Subirats,3025,1556,1249,76,29,No,1,el Consell Comarcal,12.35,9,10.74,8,75.6
+82227,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Llorenç d'Hortons,2598,1323,1049,64,24,No,1,el Consell Comarcal,12.35,8,10.74,7,75.6
+82325,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Pere de Riudebitlles,2338,1161,976,60,22,No,1,el Consell Comarcal,12.35,7,10.74,6,75.6
+81228,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Mediona,2331,1170,964,59,22,No,1,el Consell Comarcal,12.35,7,10.74,6,75.6
+82883,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Torrelles de Foix,2281,1219,905,55,21,No,1,el Consell Comarcal,12.35,7,10.74,6,75.6
+82362,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Quintí de Mediona,2179,1119,895,55,21,No,1,el Consell Comarcal,12.35,7,10.74,6,75.6
+80945,3,Barcelona,Alt Penedès,Vilafranca del Penedès,la Granada,2130,1077,874,53,20,No,1,el Consell Comarcal,12.35,7,10.74,6,75.6
+81461,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Olesa de Bonesvalls,1787,941,702,43,16,No,1,el Consell Comarcal,12.35,5,10.74,5,75.6
+80137,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Avinyonet del Penedès,1669,887,661,40,15,No,1,el Consell Comarcal,12.35,5,10.74,4,75.6
+80654,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Castellví de la Marca,1534,772,652,40,15,No,1,el Consell Comarcal,12.35,5,10.74,4,75.6
+82877,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Torrelavit,1430,736,572,35,13,No,1,el Consell Comarcal,12.35,4,10.74,4,75.6
+80850,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Font-rubí,1354,702,550,34,13,No,1,el Consell Comarcal,12.35,4,10.74,4,75.6
+81640,3,Barcelona,Alt Penedès,Vilafranca del Penedès,el Pla del Penedès,1259,634,507,31,12,No,1,el Consell Comarcal,12.35,4,10.74,3,75.6
+83041,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Vilobí del Penedès,1106,582,437,27,10,No,1,el Consell Comarcal,12.35,3,10.74,3,75.6
+82068,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Sant Cugat Sesgarrigues,989,474,415,25,10,No,1,el Consell Comarcal,12.35,3,10.74,3,75.6
+80272,3,Barcelona,Alt Penedès,Vilafranca del Penedès,les Cabanyes,965,492,382,23,9,No,1,el Consell Comarcal,12.35,3,10.74,3,75.6
+81542,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Pacs del Penedès,908,455,375,23,9,No,1,el Consell Comarcal,12.35,3,10.74,2,75.6
+81748,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Puigdàlber,518,257,205,13,5,No,1,el Consell Comarcal,12.35,2,10.74,1,75.6
+81688,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Pontons,458,258,183,11,4,No,1,el Consell Comarcal,12.35,1,10.74,1,75.6
+82495,3,Barcelona,Alt Penedès,Vilafranca del Penedès,Santa Fe del Penedès,379,191,156,10,4,No,1,el Consell Comarcal,12.35,1,10.74,1,75.6
+252038,4,Lleida,Alt Urgell,la Seu d'Urgell,la Seu d'Urgell,12041,5834,5328,325,123,la Seu d'Urgell,1,el Consell Comarcal,12.25,40,4.86,16,18.1
+251403,4,Lleida,Alt Urgell,la Seu d'Urgell,Montferrer i Castellbò,1074,578,407,25,9,No,1,el Consell Comarcal,12.25,3,4.86,1,18.1
+251850,4,Lleida,Alt Urgell,la Seu d'Urgell,Ribera d'Urgellet,923,478,380,23,9,No,1,el Consell Comarcal,12.25,3,4.86,1,18.1
+252398,4,Lleida,Alt Urgell,la Seu d'Urgell,les Valls de Valira,803,418,334,20,8,No,1,el Consell Comarcal,12.25,2,4.86,1,18.1
+251556,4,Lleida,Alt Urgell,la Seu d'Urgell,Organyà,792,396,353,22,8,No,1,el Consell Comarcal,12.25,3,4.86,1,18.1
+250772,4,Lleida,Alt Urgell,la Seu d'Urgell,Coll de Nargó,549,284,234,14,5,No,1,el Consell Comarcal,12.25,2,4.86,1,18.1
+250058,4,Lleida,Alt Urgell,la Seu d'Urgell,Alàs i Cerc,342,174,145,9,3,No,1,el Consell Comarcal,12.25,1,4.86,0,18.1
+259062,4,Lleida,Alt Urgell,la Seu d'Urgell,les Valls d'Aguilar,272,151,113,7,3,No,1,el Consell Comarcal,12.25,1,4.86,0,18.1
+259084,4,Lleida,Alt Urgell,la Seu d'Urgell,Fígols i Alinyà,253,141,100,6,2,No,1,el Consell Comarcal,12.25,1,4.86,0,18.1
+250306,4,Lleida,Alt Urgell,la Seu d'Urgell,el Pont de Bar,171,97,66,4,2,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+259097,4,Lleida,Alt Urgell,la Seu d'Urgell,la Vansa i Fórnols,168,87,78,5,2,No,1,el Consell Comarcal,12.25,1,4.86,0,18.1
+250886,4,Lleida,Alt Urgell,la Seu d'Urgell,Estamariu,119,69,41,3,1,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+259101,4,Lleida,Alt Urgell,la Seu d'Urgell,Josa i Tuixén,118,66,48,3,1,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+250616,4,Lleida,Alt Urgell,la Seu d'Urgell,Cabó,97,52,39,2,1,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+250328,4,Lleida,Alt Urgell,la Seu d'Urgell,Arsèguel,85,48,33,2,1,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+250714,4,Lleida,Alt Urgell,la Seu d'Urgell,Cava,46,28,17,1,0,No,1,el Consell Comarcal,12.25,0,4.86,0,18.1
+250518,15,Lleida,Cerdanya,la Seu d'Urgell,Bellver de Cerdanya,1979,1021,827,50,19,No,1,el Consell Comarcal,12.25,6,1.97,1,19.6
+251399,15,Lleida,Cerdanya,la Seu d'Urgell,Montellà i Martinet,554,307,226,14,5,No,1,el Consell Comarcal,12.25,2,1.97,0,19.6
+251272,15,Lleida,Cerdanya,la Seu d'Urgell,Lles de Cerdanya,255,146,94,6,2,No,1,el Consell Comarcal,12.25,1,1.97,0,19.6
+251752,15,Lleida,Cerdanya,la Seu d'Urgell,Prats i Sansor,231,121,98,6,2,No,1,el Consell Comarcal,12.25,1,1.97,0,19.6
+251790,15,Lleida,Cerdanya,la Seu d'Urgell,Prullans,224,109,100,6,2,No,1,el Consell Comarcal,12.25,1,1.97,0,19.6
+259139,15,Lleida,Cerdanya,la Seu d'Urgell,Riu de Cerdanya,94,55,36,2,1,No,1,el Consell Comarcal,12.25,0,1.97,0,19.6
+250729,32,Lleida,Segarra,Cervera,Cervera,9066,4594,3690,225,85,Cervera,1,el Consell Comarcal,11.91,27,3.58,8,44.4
+251109,32,Lleida,Segarra,Cervera,Guissona,7034,3746,2653,162,61,No,1,el Consell Comarcal,11.91,19,3.58,6,44.4
+251924,32,Lleida,Segarra,Cervera,Sant Guim de Freixenet,1040,546,417,25,10,No,1,el Consell Comarcal,11.91,3,3.58,1,44.4
+259078,32,Lleida,Segarra,Cervera,Torrefeta i Florejacs,590,316,247,15,6,No,1,el Consell Comarcal,11.91,2,3.58,1,44.4
+259118,32,Lleida,Segarra,Cervera,els Plans de Sió,507,269,211,13,5,No,1,el Consell Comarcal,11.91,2,3.58,0,44.4
+251945,32,Lleida,Segarra,Cervera,Sant Ramon,495,262,202,12,5,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+259059,32,Lleida,Segarra,Cervera,Ribera d'Ondara,422,215,184,11,4,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+252167,32,Lleida,Segarra,Cervera,Talavera,247,142,95,6,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+251327,32,Lleida,Segarra,Cervera,Massoteres,232,122,87,5,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+251410,32,Lleida,Segarra,Cervera,Montoliu de Segarra,190,105,80,5,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+252192,32,Lleida,Segarra,Cervera,Tarroja de Segarra,183,100,71,4,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+251977,32,Lleida,Segarra,Cervera,Sant Guim de la Plana,177,101,70,4,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+251522,32,Lleida,Segarra,Cervera,les Oluges,172,90,76,5,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+250851,32,Lleida,Segarra,Cervera,Estaràs,160,85,69,4,2,No,1,el Consell Comarcal,11.91,1,3.58,0,44.4
+251044,32,Lleida,Segarra,Cervera,Granyena de Segarra,147,76,60,4,1,No,1,el Consell Comarcal,11.91,0,3.58,0,44.4
+251039,32,Lleida,Segarra,Cervera,Granyanella,140,79,58,4,1,No,1,el Consell Comarcal,11.91,0,3.58,0,44.4
+251142,32,Lleida,Segarra,Cervera,Ivorra,104,57,45,3,1,No,1,el Consell Comarcal,11.91,0,3.58,0,44.4
+251431,32,Lleida,Segarra,Cervera,Montornès de Segarra,98,46,44,3,1,No,1,el Consell Comarcal,11.91,0,3.58,0,44.4
+252483,27,Lleida,Pla d'Urgell,Cervera,Vilanova de Bellpuig,1170,582,502,31,12,No,1,el Consell Comarcal,11.91,4,2.17,1,20.4
+252521,27,Lleida,Pla d'Urgell,Cervera,Vila-sana,717,358,310,19,7,No,1,el Consell Comarcal,11.91,2,2.17,0,20.4
+250680,27,Lleida,Pla d'Urgell,Cervera,Castellnou de Seana,687,361,279,17,6,No,1,el Consell Comarcal,11.91,2,2.17,0,20.4
+252173,38,Lleida,Urgell,Cervera,Tàrrega,16795,8323,7036,429,162,Tàrrega,1,el Consell Comarcal,11.91,51,1.52,7,20.6
+250501,38,Lleida,Urgell,Cervera,Bellpuig,5060,2635,2017,123,46,No,1,el Consell Comarcal,11.91,15,1.52,2,20.6
+250273,38,Lleida,Urgell,Cervera,Anglesola,1328,670,543,33,12,No,1,el Consell Comarcal,11.91,4,1.52,1,20.6
+252424,38,Lleida,Urgell,Cervera,Verdú,905,434,417,25,10,No,1,el Consell Comarcal,11.91,3,1.52,0,20.6
+259025,38,Lleida,Urgell,Cervera,Sant Martí de Riucorb,648,337,272,17,6,No,1,el Consell Comarcal,11.91,2,1.52,0,20.6
+250463,38,Lleida,Urgell,Cervera,Belianes,525,265,232,14,5,No,1,el Consell Comarcal,11.91,2,1.52,0,20.6
+252445,38,Lleida,Urgell,Cervera,Vilagrassa,510,261,208,13,5,No,1,el Consell Comarcal,11.91,2,1.52,0,20.6
+251765,38,Lleida,Urgell,Cervera,Preixana,385,198,160,10,4,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+251095,38,Lleida,Urgell,Cervera,Guimerà,270,146,108,7,2,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+252385,38,Lleida,Urgell,Cervera,Vallbona de les Monges,234,123,100,6,2,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+251305,38,Lleida,Urgell,Cervera,Maldà,225,115,104,6,2,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+250740,38,Lleida,Urgell,Cervera,Ciutadilla,206,109,88,5,2,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+251575,38,Lleida,Urgell,Cervera,Ossó de Sió,205,104,88,5,2,No,1,el Consell Comarcal,11.91,1,1.52,0,20.6
+251543,38,Lleida,Urgell,Cervera,els Omells de na Gaia,134,73,57,3,1,No,1,el Consell Comarcal,11.91,0,1.52,0,20.6
+251459,38,Lleida,Urgell,Cervera,Nalec,93,52,38,2,1,No,1,el Consell Comarcal,11.91,0,1.52,0,20.6
+80193,13,Barcelona,Barcelonès,Barcelona,Barcelona,1620343,765962,754903,46049,17363,Barcelona,11,l'Ajuntament (10) i la Generalitat (1),11.04,5083,2.36,1088,28.2
+81265,21,Barcelona,Maresme,Badalona,Montgat,11819,5832,4998,305,115,No,1,el Consell Comarcal,10.83,33,2.36,7,32.6
+80155,13,Barcelona,Barcelonès,Badalona,Badalona,217741,107092,94154,5743,2166,Badalona,1,l'Ajuntament,10.83,622,2.36,136,28.2
+81944,13,Barcelona,Barcelonès,Badalona,Sant Adrià de Besòs,36669,18028,15707,958,361,Sant Adrià de Besòs,1,l'Ajuntament,10.83,104,2.36,23,28.2
+171175,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Palafrugell,22860,11322,9633,588,222,Palafrugell,1,l'Ajuntament,10.76,63,4.15,24,36.6
+171181,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Palamós,17898,8742,7912,483,182,No,1,el Consell Comarcal,10.76,52,4.15,20,36.6
+171997,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Torroella de Montgrí,11537,5842,4806,293,111,No,1,el Consell Comarcal,10.76,32,4.15,12,36.6
+170221,10,Girona,Baix Empordà,la Bisbal de l'Empordà,la Bisbal d'Empordà,10859,5407,4493,274,103,la Bisbal d'Empordà,1,el Consell Comarcal,10.76,29,4.15,11,36.6
+170139,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Begur,3934,1972,1724,105,40,No,1,el Consell Comarcal,10.76,11,4.15,4,36.6
+171241,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Pals,2461,1246,1042,64,24,No,1,el Consell Comarcal,10.76,7,4.15,3,36.6
+179026,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Forallac,1713,843,741,45,17,No,1,el Consell Comarcal,10.76,5,4.15,2,36.6
+171100,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Mont-ras,1691,858,728,44,17,No,1,el Consell Comarcal,10.76,5,4.15,2,36.6
+179011,10,Girona,Baix Empordà,la Bisbal de l'Empordà,"Cruïlles, Monells i Sant Sadurní de l'Heura",1274,639,540,33,12,No,1,el Consell Comarcal,10.76,4,4.15,1,36.6
+170577,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Corçà,1253,642,527,32,12,No,1,el Consell Comarcal,10.76,3,4.15,1,36.6
+172116,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Verges,1189,582,502,31,12,No,1,el Consell Comarcal,10.76,3,4.15,1,36.6
+172044,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Ullà,1139,625,410,25,9,No,1,el Consell Comarcal,10.76,3,4.15,1,36.6
+172095,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Vall-llobrega,912,454,362,22,8,No,1,el Consell Comarcal,10.76,2,4.15,1,36.6
+170046,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Albons,765,396,304,19,7,No,1,el Consell Comarcal,10.76,2,4.15,1,36.6
+170182,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Bellcaire d'Empordà,671,328,287,18,7,No,1,el Consell Comarcal,10.76,2,4.15,1,36.6
+171959,10,Girona,Baix Empordà,la Bisbal de l'Empordà,la Tallada d'Empordà,459,234,190,12,4,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+171306,10,Girona,Baix Empordà,la Bisbal de l'Empordà,la Pera,447,216,199,12,5,No,1,el Consell Comarcal,10.76,1,4.15,1,36.6
+171267,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Parlavà,394,200,167,10,4,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+170813,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Gualta,392,220,146,9,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+170852,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Jafre,390,206,164,10,4,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+170681,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Foixà,305,159,133,8,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+171215,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Palau-sator,295,160,112,7,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+172057,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Ullastret,286,141,115,7,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+171447,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Regencós,276,142,115,7,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+171539,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Rupià,269,135,110,7,3,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+172039,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Ultramort,214,117,83,5,2,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+171910,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Serra de Daró,210,117,77,5,2,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+172327,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Vilopriu,205,109,80,5,2,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+170558,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Colomers,176,88,80,5,2,No,1,el Consell Comarcal,10.76,1,4.15,0,36.6
+170767,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Garrigoles,175,94,67,4,2,No,1,el Consell Comarcal,10.76,0,4.15,0,36.6
+171978,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Torrent,165,90,63,4,1,No,1,el Consell Comarcal,10.76,0,4.15,0,36.6
+170708,10,Girona,Baix Empordà,la Bisbal de l'Empordà,Fontanilles,138,76,59,4,1,No,1,el Consell Comarcal,10.76,0,4.15,0,36.6
+81691,11,Barcelona,Baix Llobregat,el Prat de Llobregat,el Prat de Llobregat,64132,31413,27812,1697,640,el Prat de Llobregat,1,l'Ajuntament,10.55,179,7.5,127,33.3
+172207,24,Girona,Osona,Santa Coloma de Farners,Viladrau,1026,505,439,27,10,No,1,el Consell Comarcal,10.4,3,7.36,2,48.1
+170638,24,Girona,Osona,Santa Coloma de Farners,Espinelves,206,106,85,5,2,No,1,el Consell Comarcal,10.4,1,7.36,0,48.1
+171805,34,Girona,Selva,Santa Coloma de Farners,Santa Coloma de Farners,12894,6490,5269,321,121,Santa Coloma de Farners,1,el Consell Comarcal,10.4,33,6.28,20,47.5
+172137,34,Girona,Selva,Santa Coloma de Farners,Vidreres,7740,3995,3146,192,72,No,1,el Consell Comarcal,10.4,20,6.28,12,47.5
+170335,34,Girona,Selva,Santa Coloma de Farners,Caldes de Malavella,7458,3716,3103,189,71,No,1,el Consell Comarcal,10.4,20,6.28,12,47.5
+171030,34,Girona,Selva,Santa Coloma de Farners,Maçanet de la Selva,6919,3561,2791,170,64,No,1,el Consell Comarcal,10.4,18,6.28,11,47.5
+170097,34,Girona,Selva,Santa Coloma de Farners,Arbúcies,6515,3378,2571,157,59,Arbúcies,1,l'Ajuntament,10.4,16,6.28,10,47.5
+171931,34,Girona,Selva,Santa Coloma de Farners,Sils,5969,3023,2454,150,56,No,1,el Consell Comarcal,10.4,16,6.28,9,47.5
+171642,34,Girona,Selva,Santa Coloma de Farners,Sant Hilari Sacalm,5591,2818,2334,142,54,No,1,el Consell Comarcal,10.4,15,6.28,9,47.5
+170084,34,Girona,Selva,Santa Coloma de Farners,Anglès,5519,2735,2310,141,53,No,1,el Consell Comarcal,10.4,15,6.28,9,47.5
+170834,34,Girona,Selva,Santa Coloma de Farners,Hostalric,4139,2096,1717,105,39,No,1,el Consell Comarcal,10.4,11,6.28,7,47.5
+171463,34,Girona,Selva,Santa Coloma de Farners,Riells i Viabrea,4002,2060,1655,101,38,No,1,el Consell Comarcal,10.4,10,6.28,6,47.5
+170274,34,Girona,Selva,Santa Coloma de Farners,Breda,3733,1855,1609,98,37,No,1,el Consell Comarcal,10.4,10,6.28,6,47.5
+172333,34,Girona,Selva,Santa Coloma de Farners,Vilobí d'Onyar,3196,1660,1269,77,29,No,1,el Consell Comarcal,10.4,8,6.28,5,47.5
+170078,34,Girona,Selva,Santa Coloma de Farners,Amer,2256,1106,997,61,23,No,1,el Consell Comarcal,10.4,6,6.28,4,47.5
+171485,34,Girona,Selva,Santa Coloma de Farners,Riudarenes,2181,1125,880,54,20,No,1,el Consell Comarcal,10.4,6,6.28,3,47.5
+171501,34,Girona,Selva,Santa Coloma de Farners,Riudellots de la Selva,2059,1053,851,52,20,No,1,el Consell Comarcal,10.4,5,6.28,3,47.5
+171899,34,Girona,Selva,Santa Coloma de Farners,la Cellera de Ter,1976,981,843,51,19,No,1,el Consell Comarcal,10.4,5,6.28,3,47.5
+179032,34,Girona,Selva,Santa Coloma de Farners,Sant Julià del Llor i Bonmatí,1275,656,509,31,12,No,1,el Consell Comarcal,10.4,3,6.28,2,47.5
+171595,34,Girona,Selva,Santa Coloma de Farners,Sant Feliu de Buixalleu,804,419,329,20,8,No,1,el Consell Comarcal,10.4,2,6.28,1,47.5
+171019,34,Girona,Selva,Santa Coloma de Farners,Massanes,730,394,271,17,6,No,1,el Consell Comarcal,10.4,2,6.28,1,47.5
+171169,34,Girona,Selva,Santa Coloma de Farners,Osor,416,217,177,11,4,No,1,el Consell Comarcal,10.4,1,6.28,1,47.5
+170280,34,Girona,Selva,Santa Coloma de Farners,Brunyola,369,185,155,9,4,No,1,el Consell Comarcal,10.4,1,6.28,1,47.5
+171946,34,Girona,Selva,Santa Coloma de Farners,Susqueda,97,56,35,2,1,No,1,el Consell Comarcal,10.4,0,6.28,0,47.5
+81141,11,Barcelona,Baix Llobregat,Martorell,Martorell,27850,14179,11263,687,259,Martorell,1,l'Ajuntament,10.37,71,7.5,52,33.3
+81960,11,Barcelona,Baix Llobregat,Martorell,Sant Andreu de la Barca,27332,13552,11195,683,257,Sant Andreu de la Barca,1,l'Ajuntament,10.37,71,7.5,51,33.3
+81477,11,Barcelona,Baix Llobregat,Martorell,Olesa de Montserrat,23779,11860,9809,598,226,Olesa de Montserrat,1,l'Ajuntament,10.37,62,7.5,45,33.3
+80765,11,Barcelona,Baix Llobregat,Martorell,Esparreguera,22045,11153,9130,557,210,Esparreguera,1,l'Ajuntament,10.37,58,7.5,42,33.3
+80018,11,Barcelona,Baix Llobregat,Martorell,Abrera,12334,6248,4981,304,115,No,1,el Consell Comarcal,10.37,32,7.5,23,33.3
+82080,11,Barcelona,Baix Llobregat,Martorell,Sant Esteve Sesrovires,7800,3920,3251,198,75,No,1,el Consell Comarcal,10.37,21,7.5,15,33.3
+80692,11,Barcelona,Baix Llobregat,Martorell,Collbató,4458,2304,1744,106,40,No,1,el Consell Comarcal,10.37,11,7.5,8,33.3
+80667,11,Barcelona,Baix Llobregat,Martorell,Castellví de Rosanes,1865,917,783,48,18,No,1,el Consell Comarcal,10.37,5,7.5,4,33.3
+81192,6,Barcelona,Anoia,Martorell,Masquefa,8641,4338,3490,213,80,No,1,el Consell Comarcal,10.37,22,1.29,3,12.4
+82798,40,Barcelona,Vallès Occidental,Terrassa,Terrassa,218535,107540,92628,5650,2130,Terrassa,2,l'Ajuntament i el Consell Comarcal,10.3,582,5.51,312,35.8
+81206,40,Barcelona,Vallès Occidental,Terrassa,Matadepera,9291,4666,3788,231,87,Matadepera,1,l'Ajuntament,10.3,24,5.51,13,35.8
+83008,40,Barcelona,Vallès Occidental,Terrassa,Viladecavalls,7480,3707,3177,194,73,No,1,el Consell Comarcal,10.3,20,5.51,11,35.8
+82917,40,Barcelona,Vallès Occidental,Terrassa,Vacarisses,6486,3340,2542,155,58,No,1,el Consell Comarcal,10.3,16,5.51,9,35.8
+82900,40,Barcelona,Vallès Occidental,Terrassa,Ullastrell,2069,1038,821,50,19,No,1,el Consell Comarcal,10.3,5,5.51,3,35.8
+81799,40,Barcelona,Vallès Occidental,Terrassa,Rellinars,747,386,293,18,7,No,1,el Consell Comarcal,10.3,2,5.51,1,35.8
+252347,25,Lleida,Pallars Jussà,Tremp,Tremp,5824,2847,2561,156,59,Tremp,2,l'Ajuntament i el Consell Comarcal,10.01,16,8.21,13,36.8
+251713,25,Lleida,Pallars Jussà,Tremp,la Pobla de Segur,2939,1448,1299,79,30,No,1,el Consell Comarcal,10.01,8,8.21,7,36.8
+251155,25,Lleida,Pallars Jussà,Tremp,Isona i Conca Dellà,1028,546,431,26,10,No,1,el Consell Comarcal,10.01,3,8.21,2,36.8
+252271,25,Lleida,Pallars Jussà,Tremp,la Torre de Cabdella,747,379,339,21,8,No,1,el Consell Comarcal,10.01,2,8.21,2,36.8
+252154,25,Lleida,Pallars Jussà,Tremp,Talarn,651,456,170,10,4,No,1,el Consell Comarcal,10.01,1,8.21,1,36.8
+251615,25,Lleida,Pallars Jussà,Tremp,Conca de Dalt,428,220,184,11,4,No,1,el Consell Comarcal,10.01,1,8.21,1,36.8
+251902,25,Lleida,Pallars Jussà,Tremp,Salàs de Pallars,324,174,134,8,3,No,1,el Consell Comarcal,10.01,1,8.21,1,36.8
+250984,25,Lleida,Pallars Jussà,Tremp,Gavet de la Conca,274,133,132,8,3,No,1,el Consell Comarcal,10.01,1,8.21,1,36.8
+250019,25,Lleida,Pallars Jussà,Tremp,Abella de la Conca,181,99,75,5,2,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+259046,25,Lleida,Pallars Jussà,Tremp,Castell de Mur,165,91,67,4,2,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+251288,25,Lleida,Pallars Jussà,Tremp,Llimiana,142,86,54,3,1,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+252022,25,Lleida,Pallars Jussà,Tremp,Senterada,139,80,52,3,1,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+251961,25,Lleida,Pallars Jussà,Tremp,Sant Esteve de la Sarga,129,78,47,3,1,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+252017,25,Lleida,Pallars Jussà,Tremp,Sarroca de Bellera,120,69,46,3,1,No,1,el Consell Comarcal,10.01,0,8.21,0,36.8
+251734,5,Lleida,Alta Ribagorça,Tremp,el Pont de Suert,2216,1107,969,59,22,el Pont de Suert,1,el Consell Comarcal,10.01,6,6.1,4,2.6
+250432,5,Lleida,Alta Ribagorça,Tremp,la Vall de Boí,1022,546,411,25,9,No,1,el Consell Comarcal,10.01,3,6.1,2,2.6
+252458,5,Lleida,Alta Ribagorça,Tremp,Vilaller,536,281,233,14,5,No,1,el Consell Comarcal,10.01,1,6.1,1,2.6
+252094,26,Lleida,Pallars Sobirà,Tremp,Sort,2164,1076,930,57,21,Sort,2,l'Ajuntament i el Consell Comarcal,10.01,6,4.45,3,10.4
+250864,26,Lleida,Pallars Sobirà,Tremp,Esterri d'Àneu,756,363,345,21,8,No,1,el Consell Comarcal,10.01,2,4.45,1,10.4
+251832,26,Lleida,Pallars Sobirà,Tremp,Rialp,663,338,285,17,7,No,1,el Consell Comarcal,10.01,2,4.45,1,10.4
+250241,26,Lleida,Pallars Sobirà,Tremp,Alt Àneu,406,228,166,10,4,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+252081,26,Lleida,Pallars Sobirà,Tremp,Soriguera,399,215,159,10,4,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+259010,26,Lleida,Pallars Sobirà,Tremp,Vall de Cardós,372,195,147,9,3,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+250827,26,Lleida,Pallars Sobirà,Tremp,Espot,352,190,143,9,3,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+251266,26,Lleida,Pallars Sobirà,Tremp,Llavorsí,352,171,159,10,4,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+250390,26,Lleida,Pallars Sobirà,Tremp,Baix Pallars,330,175,137,8,3,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+259031,26,Lleida,Pallars Sobirà,Tremp,la Guingueta d'Àneu,298,160,123,8,3,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+250175,26,Lleida,Pallars Sobirà,Tremp,Alins,290,153,122,7,3,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+251235,26,Lleida,Pallars Sobirà,Tremp,Lladorre,227,111,100,6,2,No,1,el Consell Comarcal,10.01,1,4.45,0,10.4
+252213,26,Lleida,Pallars Sobirà,Tremp,Tírvia,134,66,63,4,1,No,1,el Consell Comarcal,10.01,0,4.45,0,10.4
+250899,26,Lleida,Pallars Sobirà,Tremp,Farrera,122,69,43,3,1,No,1,el Consell Comarcal,10.01,0,4.45,0,10.4
+250870,26,Lleida,Pallars Sobirà,Tremp,Esterri de Cardós,69,36,27,2,1,No,1,el Consell Comarcal,10.01,0,4.45,0,10.4
+80581,3,Barcelona,Alt Penedès,Vilanova i la Geltrú,Castellet i la Gornal,2247,1147,932,57,21,No,1,el Consell Comarcal,9.96,6,10.74,6,75.6
+83073,17,Barcelona,Garraf,Vilanova i la Geltrú,Vilanova i la Geltrú,66274,32079,29263,1785,673,Vilanova i la Geltrú,2,l'Ajuntament i el Consell Comarcal,9.96,178,5.1,91,37.5
+82310,17,Barcelona,Garraf,Vilanova i la Geltrú,Sant Pere de Ribes,30658,15311,12786,780,294,Sant Pere de Ribes,1,l'Ajuntament,9.96,78,5.1,40,37.5
+82704,17,Barcelona,Garraf,Vilanova i la Geltrú,Sitges,28969,14476,12466,760,287,Sitges,1,l'Ajuntament,9.96,76,5.1,39,37.5
+80749,17,Barcelona,Garraf,Vilanova i la Geltrú,Cubelles,14992,7554,6217,379,143,No,1,el Consell Comarcal,9.96,38,5.1,19,37.5
+80431,17,Barcelona,Garraf,Vilanova i la Geltrú,Canyelles,4481,2310,1800,110,41,No,1,el Consell Comarcal,9.96,11,5.1,6,37.5
+81483,17,Barcelona,Garraf,Vilanova i la Geltrú,Olivella,3729,1962,1386,85,32,No,1,el Consell Comarcal,9.96,8,5.1,4,37.5
+252430,39,Lleida,Val d'Aran,Vielha e Mijaran,Vielha e Mijaran,5493,2787,2319,141,53,Vielha e Mijaran,1,el Consell Comarcal,9.79,14,0.39,1,1
+250254,39,Lleida,Val d'Aran,Vielha e Mijaran,Naut Aran,1790,928,739,45,17,No,1,el Consell Comarcal,9.79,4,0.39,0,1
+250595,39,Lleida,Val d'Aran,Vielha e Mijaran,Bossòst,1110,544,493,30,11,No,1,el Consell Comarcal,9.79,3,0.39,0,1
+251214,39,Lleida,Val d'Aran,Vielha e Mijaran,Les,954,480,390,24,9,No,1,el Consell Comarcal,9.79,2,0.39,0,1
+250576,39,Lleida,Val d'Aran,Vielha e Mijaran,es Bòrdes,266,145,104,6,2,No,1,el Consell Comarcal,9.79,1,0.39,0,1
+252477,39,Lleida,Val d'Aran,Vielha e Mijaran,Vilamòs,159,90,63,4,1,No,1,el Consell Comarcal,9.79,0,0.39,0,1
+250637,39,Lleida,Val d'Aran,Vielha e Mijaran,Canejan,84,48,32,2,1,No,1,el Consell Comarcal,9.79,0,0.39,0,1
+250450,39,Lleida,Val d'Aran,Vielha e Mijaran,Bausen,64,34,28,2,1,No,1,el Consell Comarcal,9.79,0,0.39,0,1
+250313,39,Lleida,Val d'Aran,Vielha e Mijaran,Arres,63,40,20,1,0,No,1,el Consell Comarcal,9.79,0,0.39,0,1
+82114,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Sant Feliu de Llobregat,44474,21536,19400,1183,446,Sant Feliu de Llobregat,2,l'Ajuntament i el Consell Comarcal,9.74,115,7.5,89,33.3
+82172,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Sant Joan Despí,34084,16569,14696,896,338,Sant Joan Despí,1,l'Ajuntament,9.74,87,7.5,67,33.3
+82634,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Sant Vicenç dels Horts,27901,13846,11861,724,273,Sant Vicenç dels Horts,1,l'Ajuntament,9.74,70,7.5,54,33.3
+81234,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Molins de Rei,25687,12499,10987,670,253,Molins de Rei,1,l'Ajuntament,9.74,65,7.5,50,33.3
+82956,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Vallirana,14877,7441,6131,374,141,No,1,el Consell Comarcal,9.74,36,7.5,28,33.3
+80728,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Corbera de Llobregat,14643,7357,6064,370,139,Corbera de Llobregat,1,l'Ajuntament,9.74,36,7.5,28,33.3
+81574,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Pallejà,11486,5725,4761,290,110,No,1,el Consell Comarcal,9.74,28,7.5,22,33.3
+80689,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,Cervelló,8970,4495,3743,228,86,Cervelló,1,l'Ajuntament,9.74,22,7.5,17,33.3
+81580,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,el Papiol,4103,2031,1711,104,39,No,1,el Consell Comarcal,9.74,10,7.5,8,33.3
+89058,11,Barcelona,Baix Llobregat,Sant Feliu de Llobregat,la Palma de Cervelló,2982,1458,1298,79,30,No,1,el Consell Comarcal,9.74,8,7.5,6,33.3
+171411,15,Girona,Cerdanya,Puigcerdà,Puigcerdà,8981,4475,3834,234,88,Puigcerdà,1,el Consell Comarcal,9.65,23,1.97,5,19.6
+170062,15,Girona,Cerdanya,Puigcerdà,Alp,1559,809,649,40,15,No,1,el Consell Comarcal,9.65,4,1.97,1,19.6
+170947,15,Girona,Cerdanya,Puigcerdà,Llívia,1428,764,575,35,13,No,1,el Consell Comarcal,9.65,3,1.97,1,19.6
+170828,15,Girona,Cerdanya,Puigcerdà,Guils de Cerdanya,529,278,214,13,5,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170694,15,Girona,Cerdanya,Puigcerdà,Fontanals de Cerdanya,455,231,199,12,5,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170789,15,Girona,Cerdanya,Puigcerdà,Ger,429,213,179,11,4,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170242,15,Girona,Cerdanya,Puigcerdà,Bolvir,383,200,160,10,4,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170849,15,Girona,Cerdanya,Puigcerdà,Isòvol,278,159,105,6,2,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170617,15,Girona,Cerdanya,Puigcerdà,Das,227,122,78,5,2,No,1,el Consell Comarcal,9.65,0,1.97,0,19.6
+172060,15,Girona,Cerdanya,Puigcerdà,Urús,178,84,86,5,2,No,1,el Consell Comarcal,9.65,1,1.97,0,19.6
+170998,15,Girona,Cerdanya,Puigcerdà,Meranges,98,58,35,2,1,No,1,el Consell Comarcal,9.65,0,1.97,0,19.6
+82981,24,Barcelona,Osona,Vic,Vic,45040,22626,18644,1137,429,Vic,1,l'Ajuntament i el Consell Comarcal (compartit),9.55,109,7.36,84,48.1
+81120,24,Barcelona,Osona,Vic,Manlleu,20194,10068,8403,513,193,Manlleu,1,l'Ajuntament,9.55,49,7.36,38,48.1
+82858,24,Barcelona,Osona,Vic,Torelló,14172,7021,6042,369,139,No,1,el Consell Comarcal,9.55,35,7.36,27,48.1
+82830,24,Barcelona,Osona,Vic,Tona,8131,4024,3455,211,79,No,1,el Consell Comarcal,9.55,20,7.36,16,48.1
+80673,24,Barcelona,Osona,Vic,Centelles,7423,3643,3189,195,73,No,1,el Consell Comarcal,9.55,19,7.36,14,48.1
+82785,24,Barcelona,Osona,Vic,Taradell,6412,3188,2731,167,63,No,1,el Consell Comarcal,9.55,16,7.36,12,48.1
+81831,24,Barcelona,Osona,Vic,Roda de Ter,6197,3039,2659,162,61,No,1,el Consell Comarcal,9.55,15,7.36,12,48.1
+80174,24,Barcelona,Osona,Vic,Balenyà,3783,1907,1584,97,36,No,1,el Consell Comarcal,9.55,9,7.36,7,48.1
+82153,24,Barcelona,Osona,Vic,Sant Hipòlit de Voltregà,3475,1721,1507,92,35,No,1,el Consell Comarcal,9.55,9,7.36,7,48.1
+82690,24,Barcelona,Osona,Vic,Seva,3472,1746,1462,89,34,No,1,el Consell Comarcal,9.55,9,7.36,7,48.1
+81173,24,Barcelona,Osona,Vic,les Masies de Voltregà,3124,1543,1354,83,31,No,1,el Consell Comarcal,9.55,8,7.36,6,48.1
+82205,24,Barcelona,Osona,Vic,Sant Julià de Vilatorta,3096,1529,1305,80,30,No,1,el Consell Comarcal,9.55,8,7.36,6,48.1
+81000,24,Barcelona,Osona,Vic,Gurb,2654,1360,1090,66,25,No,1,el Consell Comarcal,9.55,6,7.36,5,48.1
+81712,24,Barcelona,Osona,Vic,Prats de Lluçanès,2537,1273,1113,68,26,No,1,el Consell Comarcal,9.55,6,7.36,5,48.1
+80370,24,Barcelona,Osona,Vic,Calldetenes,2497,1265,1033,63,24,No,1,el Consell Comarcal,9.55,6,7.36,5,48.1
+82331,24,Barcelona,Osona,Vic,Sant Pere de Torelló,2419,1251,1016,62,23,No,1,el Consell Comarcal,9.55,6,7.36,5,48.1
+80832,24,Barcelona,Osona,Vic,Folgueroles,2276,1156,899,55,21,No,1,el Consell Comarcal,9.55,5,7.36,4,48.1
+82460,24,Barcelona,Osona,Vic,Santa Eugènia de Berga,2226,1130,945,58,22,No,1,el Consell Comarcal,9.55,6,7.36,4,48.1
+82541,24,Barcelona,Osona,Vic,l'Esquirol,2141,1083,932,57,21,No,1,el Consell Comarcal,9.55,5,7.36,4,48.1
+82378,24,Barcelona,Osona,Vic,Sant Quirze de Besora,2107,1027,937,57,22,No,1,el Consell Comarcal,9.55,5,7.36,4,48.1
+82652,24,Barcelona,Osona,Vic,Sant Vicenç de Torelló,2014,993,875,53,20,No,1,el Consell Comarcal,9.55,5,7.36,4,48.1
+82476,24,Barcelona,Osona,Vic,Santa Eulàlia de Riuprimer,1309,670,507,31,12,No,1,el Consell Comarcal,9.55,3,7.36,2,48.1
+81496,24,Barcelona,Osona,Vic,Olost,1188,587,533,33,12,No,1,el Consell Comarcal,9.55,3,7.36,2,48.1
+82248,24,Barcelona,Osona,Vic,Sant Martí de Centelles,1131,590,459,28,11,No,1,el Consell Comarcal,9.55,3,7.36,2,48.1
+81311,24,Barcelona,Osona,Vic,Montesquiu,968,492,407,25,9,No,1,el Consell Comarcal,9.55,2,7.36,2,48.1
+81995,24,Barcelona,Osona,Vic,Sant Bartomeu del Grau,840,446,347,21,8,No,1,el Consell Comarcal,9.55,2,7.36,2,48.1
+81167,24,Barcelona,Osona,Vic,les Masies de Roda,704,354,304,19,7,No,1,el Consell Comarcal,9.55,2,7.36,1,48.1
+81290,24,Barcelona,Osona,Vic,Muntanyola,620,316,242,15,6,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+81516,24,Barcelona,Osona,Vic,Oristà,537,268,240,15,6,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+82016,24,Barcelona,Osona,Vic,Sant Boi de Lluçanès,532,260,237,14,5,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+81607,24,Barcelona,Osona,Vic,Perafita,412,210,178,11,4,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+82750,24,Barcelona,Osona,Vic,Tavèrnoles,320,159,136,8,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+81509,24,Barcelona,Osona,Vic,Orís,310,156,131,8,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+83036,24,Barcelona,Osona,Vic,Vilanova de Sau,308,143,150,9,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+89019,24,Barcelona,Osona,Vic,Rupit i Pruit,279,139,125,8,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+81094,24,Barcelona,Osona,Vic,Lluçà,276,135,114,7,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+80044,24,Barcelona,Osona,Vic,Alpens,273,146,109,7,3,No,1,el Consell Comarcal,9.55,1,7.36,0,48.1
+81115,24,Barcelona,Osona,Vic,Malla,271,140,113,7,3,No,1,el Consell Comarcal,9.55,1,7.36,1,48.1
+80266,24,Barcelona,Osona,Vic,el Brull,257,142,94,6,2,No,1,el Consell Comarcal,9.55,1,7.36,0,48.1
+82726,24,Barcelona,Osona,Vic,Sora,205,115,78,5,2,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82439,24,Barcelona,Osona,Vic,Santa Cecília de Voltregà,187,96,78,5,2,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82536,24,Barcelona,Osona,Vic,Santa Maria de Besora,143,72,63,4,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82251,24,Barcelona,Osona,Vic,Sant Martí d'Albars,113,56,47,3,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82802,24,Barcelona,Osona,Vic,Tavertet,111,58,48,3,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+81957,24,Barcelona,Osona,Vic,Sant Agustí de Lluçanès,87,44,37,2,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82711,24,Barcelona,Osona,Vic,Sobremunt,79,34,40,2,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+82418,24,Barcelona,Osona,Vic,Sant Sadurní d'Osormort,79,46,31,2,1,No,1,el Consell Comarcal,9.55,0,7.36,0,48.1
+80556,42,Barcelona,Moianès,Vic,Castellcir,728,377,283,17,7,No,0,,9.55,2,0.3,0,2.2
+80706,42,Barcelona,Moianès,Vic,Collsuspina,339,173,133,8,3,No,0,,9.55,1,0.3,0,2.2
+430555,29,Tarragona,Priorat,Falset,Falset,2807,1405,1186,72,27,Falset,1,el Consell Comarcal,9.1,7,11.41,8,96.4
+430496,29,Tarragona,Priorat,Falset,Cornudella de Montsant,964,510,393,24,9,No,1,el Consell Comarcal,9.1,2,11.41,3,96.4
+430764,29,Tarragona,Priorat,Falset,Marçà,599,320,246,15,6,No,1,el Consell Comarcal,9.1,1,11.41,2,96.4
+430825,29,Tarragona,Priorat,Falset,el Masroig,498,275,196,12,5,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+431140,29,Tarragona,Priorat,Falset,Porrera,441,232,187,11,4,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+431573,29,Tarragona,Priorat,Falset,Ulldemolins,402,229,159,10,4,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430402,29,Tarragona,Priorat,Falset,Capçanes,398,200,173,11,4,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+431129,29,Tarragona,Priorat,Falset,Poboleda,335,182,133,8,3,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430350,29,Tarragona,Priorat,Falset,Cabacés,305,159,120,7,3,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430234,29,Tarragona,Priorat,Falset,Bellmunt del Priorat,300,156,134,8,3,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430859,29,Tarragona,Priorat,Falset,el Molar,281,147,127,8,3,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430705,29,Tarragona,Priorat,Falset,els Guiamets,270,125,134,8,3,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430691,29,Tarragona,Priorat,Falset,Gratallops,226,126,95,6,2,No,1,el Consell Comarcal,9.1,1,11.41,1,96.4
+430271,29,Tarragona,Priorat,Falset,la Bisbal de Falset,219,119,90,5,2,No,1,el Consell Comarcal,9.1,0,11.41,1,96.4
+431747,29,Tarragona,Priorat,Falset,la Vilella Baixa,202,111,81,5,2,No,1,el Consell Comarcal,9.1,0,11.41,1,96.4
+431153,29,Tarragona,Priorat,Falset,Pradell de la Teixeta,159,71,77,5,2,No,1,el Consell Comarcal,9.1,0,11.41,1,96.4
+430960,29,Tarragona,Priorat,Falset,la Morera de Montsant,157,87,58,4,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+431541,29,Tarragona,Priorat,Falset,Torroja del Priorat,148,82,63,4,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+431515,29,Tarragona,Priorat,Falset,la Torre de Fontaubella,137,71,59,4,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+431732,29,Tarragona,Priorat,Falset,la Vilella Alta,132,74,45,3,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+430727,29,Tarragona,Priorat,Falset,el Lloar,118,62,46,3,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+430580,29,Tarragona,Priorat,Falset,la Figuera,104,59,43,3,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+430751,29,Tarragona,Priorat,Falset,Margalef,94,57,35,2,1,No,1,el Consell Comarcal,9.1,0,11.41,0,96.4
+430607,30,Tarragona,Ribera d'Ebre,Falset,Flix,3491,1751,1578,96,36,No,1,el Consell Comarcal,9.1,9,1.55,1,7.1
+430944,30,Tarragona,Ribera d'Ebre,Falset,Móra la Nova,3071,1525,1329,81,31,No,1,el Consell Comarcal,9.1,7,1.55,1,7.1
+431508,30,Tarragona,Ribera d'Ebre,Falset,Tivissa,1639,816,732,45,17,No,1,el Consell Comarcal,9.1,4,1.55,1,7.1
+431251,30,Tarragona,Ribera d'Ebre,Falset,Riba-roja d'Ebre,1112,589,468,29,11,No,1,el Consell Comarcal,9.1,3,1.55,0,7.1
+431520,30,Tarragona,Ribera d'Ebre,Falset,la Torre de l'Espanyol,628,325,260,16,6,No,1,el Consell Comarcal,9.1,1,1.55,0,7.1
+430653,30,Tarragona,Ribera d'Ebre,Falset,Garcia,525,269,224,14,5,No,1,el Consell Comarcal,9.1,1,1.55,0,7.1
+431779,30,Tarragona,Ribera d'Ebre,Falset,Vinebre,432,222,184,11,4,No,1,el Consell Comarcal,9.1,1,1.55,0,7.1
+430995,30,Tarragona,Ribera d'Ebre,Falset,la Palma d'Ebre,353,168,168,10,4,No,1,el Consell Comarcal,9.1,1,1.55,0,7.1
+170340,10,Barcelona,Baix Empordà,Igualada,Calonge de Segarra,191,95,4703,287,108,No,1,el Consell Comarcal,9.08,26,4.15,12,36.6
+81022,6,Barcelona,Anoia,Igualada,Igualada,39540,19393,16944,1034,390,Igualada,2,l'Ajuntament i el Consell Comarcal,9.08,94,1.29,13,12.4
+81614,6,Barcelona,Anoia,Igualada,Piera,15362,7848,6273,383,144,No,1,el Consell Comarcal,9.08,35,1.29,5,12.4
+83020,6,Barcelona,Anoia,Igualada,Vilanova del Camí,12361,6178,5080,310,117,No,1,el Consell Comarcal,9.08,28,1.29,4,12.4
+82508,6,Barcelona,Anoia,Igualada,Santa Margarida de Montbui,9874,4940,4090,249,94,No,1,el Consell Comarcal,9.08,23,1.29,3,12.4
+80446,6,Barcelona,Anoia,Igualada,Capellades,5211,2572,2264,138,52,No,1,el Consell Comarcal,9.08,13,1.29,2,12.4
+82861,6,Barcelona,Anoia,Igualada,la Torre de Claramunt,3716,1911,1526,93,35,No,1,el Consell Comarcal,9.08,8,1.29,1,12.4
+81430,6,Barcelona,Anoia,Igualada,Òdena,3608,1847,1436,88,33,No,1,el Consell Comarcal,9.08,8,1.29,1,12.4
+80312,6,Barcelona,Anoia,Igualada,Calaf,3547,1790,1475,90,34,No,1,el Consell Comarcal,9.08,8,1.29,1,12.4
+81629,6,Barcelona,Anoia,Igualada,els Hostalets de Pierola,2930,1502,1149,70,26,No,1,el Consell Comarcal,9.08,6,1.29,1,12.4
+81653,6,Barcelona,Anoia,Igualada,la Pobla de Claramunt,2177,1109,879,54,20,No,1,el Consell Comarcal,9.08,5,1.29,1,12.4
+80253,6,Barcelona,Anoia,Igualada,el Bruc,2027,1095,750,46,17,No,1,el Consell Comarcal,9.08,4,1.29,1,12.4
+82922,6,Barcelona,Anoia,Igualada,Vallbona d'Anoia,1399,729,584,36,13,No,1,el Consell Comarcal,9.08,3,1.29,0,12.4
+80288,6,Barcelona,Anoia,Igualada,Cabrera d'Anoia,1376,726,548,33,13,No,1,el Consell Comarcal,9.08,3,1.29,0,12.4
+82264,6,Barcelona,Anoia,Igualada,Sant Martí de Tous,1206,616,476,29,11,No,1,el Consell Comarcal,9.08,3,1.29,0,12.4
+81043,6,Barcelona,Anoia,Igualada,la Llacuna,863,469,352,21,8,No,1,el Consell Comarcal,9.08,2,1.29,0,12.4
+81038,6,Barcelona,Anoia,Igualada,Jorba,841,431,345,21,8,No,1,el Consell Comarcal,9.08,2,1.29,0,12.4
+80484,6,Barcelona,Anoia,Igualada,Carme,783,398,334,20,8,No,1,el Consell Comarcal,9.08,2,1.29,0,12.4
+80636,6,Barcelona,Anoia,Igualada,Castellolí,610,295,238,15,5,No,1,el Consell Comarcal,9.08,1,1.29,0,12.4
+81705,6,Barcelona,Anoia,Igualada,els Prats de Rei,545,288,225,14,5,No,1,el Consell Comarcal,9.08,1,1.29,0,12.4
+82286,6,Barcelona,Anoia,Igualada,Sant Martí Sesgueioles,344,179,146,9,3,No,1,el Consell Comarcal,9.08,1,1.29,0,12.4
+80713,6,Barcelona,Anoia,Igualada,Copons,306,151,127,8,3,No,1,el Consell Comarcal,9.08,1,1.29,0,12.4
+81859,6,Barcelona,Anoia,Igualada,Rubió,232,129,89,5,2,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+80082,6,Barcelona,Anoia,Igualada,Argençola,219,110,93,6,2,No,1,el Consell Comarcal,9.08,1,1.29,0,12.4
+81764,6,Barcelona,Anoia,Igualada,Pujalt,207,113,78,5,2,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+82975,6,Barcelona,Anoia,Igualada,Veciana,170,95,58,4,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+80608,6,Barcelona,Anoia,Igualada,Castellfollit de Riubregós,156,90,61,4,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+81897,6,Barcelona,Anoia,Igualada,Sant Pere Sallavinera,155,84,63,4,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+81332,6,Barcelona,Anoia,Igualada,Montmaneu,154,88,64,4,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+81521,6,Barcelona,Anoia,Igualada,Orpí,136,75,52,3,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+82573,6,Barcelona,Anoia,Igualada,Santa Maria de Miralles,128,69,52,3,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+80214,6,Barcelona,Anoia,Igualada,Bellprat,74,46,26,2,1,No,1,el Consell Comarcal,9.08,0,1.29,0,12.4
+80961,41,Barcelona,Vallès Oriental,Granollers,Granollers,60981,30023,26435,1613,608,Granollers,2,l'Ajuntament i el Consell Comarcal,8.96,145,6.17,99,43.2
+80863,41,Barcelona,Vallès Oriental,Granollers,les Franqueses del Vallès,19768,10003,7908,482,182,les franqueses del Vallès,1,l'Ajuntament,8.96,43,6.17,30,43.2
+80462,41,Barcelona,Vallès Oriental,Granollers,Cardedeu,18165,8892,7598,463,175,No,1,el Consell Comarcal,8.96,42,6.17,29,43.2
+82021,41,Barcelona,Vallès Oriental,Granollers,Sant Celoni,17754,8833,7437,454,171,Sant Celoni,1,l'Ajuntament,8.96,41,6.17,28,43.2
+80333,41,Barcelona,Vallès Oriental,Granollers,Caldes de Montbui,17449,8669,7427,453,171,No,1,el Consell Comarcal,8.96,41,6.17,28,43.2
+80410,41,Barcelona,Vallès Oriental,Granollers,Canovelles,16317,8458,6424,392,148,No,1,el Consell Comarcal,8.96,35,6.17,24,43.2
+81363,41,Barcelona,Vallès Oriental,Granollers,Montornès del Vallès,16263,8167,6579,401,151,Montornès del Vallès,1,l'Ajuntament,8.96,36,6.17,25,43.2
+80885,41,Barcelona,Vallès Oriental,Granollers,la Garriga,16227,7861,7028,429,162,No,1,el Consell Comarcal,8.96,38,6.17,26,43.2
+81075,41,Barcelona,Vallès Oriental,Granollers,Lliçà d'Amunt,15111,7738,6209,379,143,No,1,el Consell Comarcal,8.96,34,6.17,23,43.2
+81810,41,Barcelona,Vallès Oriental,Granollers,la Roca del Vallès,10666,5314,4395,268,101,No,1,el Consell Comarcal,8.96,24,6.17,17,43.2
+81069,41,Barcelona,Vallès Oriental,Granollers,Llinars del Vallès,9838,4907,4238,259,97,Llinars del Vallès,1,l'Ajuntament,8.96,23,6.17,16,43.2
+82592,41,Barcelona,Vallès Oriental,Granollers,Santa Maria de Palautordera,9325,4673,3913,239,90,No,1,el Consell Comarcal,8.96,21,6.17,15,43.2
+80235,41,Barcelona,Vallès Oriental,Granollers,Bigues i Riells,9003,4587,3639,222,84,No,1,el Consell Comarcal,8.96,20,6.17,14,43.2
+80057,41,Barcelona,Vallès Oriental,Granollers,l'Ametlla del Vallès,8496,4285,3531,215,81,No,1,el Consell Comarcal,8.96,19,6.17,13,43.2
+82482,41,Barcelona,Vallès Oriental,Granollers,Santa Eulàlia de Ronçana,7192,3601,2993,183,69,No,1,el Consell Comarcal,8.96,16,6.17,11,43.2
+81081,41,Barcelona,Vallès Oriental,Granollers,Lliçà de Vall,6480,3299,2694,164,62,No,1,el Consell Comarcal,8.96,15,6.17,10,43.2
+82107,41,Barcelona,Vallès Oriental,Granollers,Sant Feliu de Codines,6184,3132,2587,158,60,No,1,el Consell Comarcal,8.96,14,6.17,10,43.2
+81982,41,Barcelona,Vallès Oriental,Granollers,Sant Antoni de Vilamajor,6095,3032,2564,156,59,No,1,el Consell Comarcal,8.96,14,6.17,10,43.2
+89024,41,Barcelona,Vallès Oriental,Granollers,Vilanova del Vallès,5339,2701,2092,128,48,No,1,el Consell Comarcal,8.96,11,6.17,8,43.2
+82346,41,Barcelona,Vallès Oriental,Granollers,Sant Pere de Vilamajor,4371,2168,1807,110,42,No,1,el Consell Comarcal,8.96,10,6.17,7,43.2
+80425,41,Barcelona,Vallès Oriental,Granollers,Cànoves i Samalús,2995,1521,1217,74,28,No,1,el Consell Comarcal,8.96,7,6.17,5,43.2
+82943,41,Barcelona,Vallès Oriental,Granollers,Vallgorguina,2854,1427,1129,69,26,No,1,el Consell Comarcal,8.96,6,6.17,4,43.2
+82074,41,Barcelona,Vallès Oriental,Granollers,Sant Esteve de Palautordera,2749,1359,1136,69,26,No,1,el Consell Comarcal,8.96,6,6.17,4,43.2
+82969,41,Barcelona,Vallès Oriental,Granollers,Vallromanes,2530,1297,993,61,23,No,1,el Consell Comarcal,8.96,5,6.17,4,43.2
+80142,41,Barcelona,Vallès Oriental,Granollers,Aiguafreda,2501,1204,1119,68,26,No,1,el Consell Comarcal,8.96,6,6.17,4,43.2
+80977,41,Barcelona,Vallès Oriental,Granollers,Gualba,1481,750,574,35,13,No,1,el Consell Comarcal,8.96,3,6.17,2,43.2
+81347,41,Barcelona,Vallès Oriental,Granollers,Figaró-Montmany,1109,551,478,29,11,No,1,el Consell Comarcal,8.96,3,6.17,2,43.2
+83067,41,Barcelona,Vallès Oriental,Granollers,Vilalba Sasserra,688,343,289,18,7,No,1,el Consell Comarcal,8.96,2,6.17,1,43.2
+80399,41,Barcelona,Vallès Oriental,Granollers,Campins,515,272,204,12,5,No,1,el Consell Comarcal,8.96,1,6.17,1,43.2
+80811,41,Barcelona,Vallès Oriental,Granollers,Fogars de Montclús,466,245,171,10,4,No,1,el Consell Comarcal,8.96,1,6.17,1,43.2
+82763,41,Barcelona,Vallès Oriental,Granollers,Tagamanent,333,174,133,8,3,No,1,el Consell Comarcal,8.96,1,6.17,1,43.2
+81379,41,Barcelona,Vallès Oriental,Granollers,Montseny,321,166,132,8,3,No,1,el Consell Comarcal,8.96,1,6.17,0,43.2
+80641,42,Barcelona,Moianès,Granollers,Castellterçol,2418,1208,1037,63,24,No,0,,8.96,6,0.3,0,2.2
+82397,42,Barcelona,Moianès,Granollers,Sant Quirze Safaja,637,332,237,14,5,No,0,,8.96,1,0.3,0,2.2
+80958,42,Barcelona,Moianès,Granollers,Granera,80,56,23,1,1,No,0,,8.96,0,0.3,0,2.2
+82009,11,Barcelona,Baix Llobregat,Sant Boi de Llobregat,Sant Boi de Llobregat,82904,40601,36018,2197,828,Sant Boi de Llobregat,1,l'Ajuntament,8.92,196,7.5,165,33.3
+82444,11,Barcelona,Baix Llobregat,Sant Boi de Llobregat,Santa Coloma de Cervelló,8179,4018,3290,201,76,No,1,el Consell Comarcal,8.92,18,7.5,15,33.3
+82896,11,Barcelona,Baix Llobregat,Sant Boi de Llobregat,Torrelles de Llobregat,5945,2941,2420,148,56,No,1,el Consell Comarcal,8.92,13,7.5,11,33.3
+82042,11,Barcelona,Baix Llobregat,Sant Boi de Llobregat,Sant Climent de Llobregat,4107,2074,1645,100,38,No,1,el Consell Comarcal,8.92,9,7.5,8,33.3
+170157,28,Girona,Pla de l'Estany,Girona,Banyoles,19615,9741,8151,497,187,Banyoles,1,el Consell Comarcal,8.87,44,7.28,36,54.1
+171371,28,Girona,Pla de l'Estany,Girona,Porqueres,4595,2281,1911,117,44,No,1,el Consell Comarcal,8.87,10,7.28,8,54.1
+170561,28,Girona,Pla de l'Estany,Girona,Cornellà del Terri,2322,1182,961,59,22,No,1,el Consell Comarcal,8.87,5,7.28,4,54.1
+170715,28,Girona,Pla de l'Estany,Girona,Fontcoberta,1474,733,621,38,14,No,1,el Consell Comarcal,8.87,3,7.28,3,54.1
+171903,28,Girona,Pla de l'Estany,Girona,Serinyà,1108,570,449,27,10,No,1,el Consell Comarcal,8.87,2,7.28,2,54.1
+172180,28,Girona,Pla de l'Estany,Girona,Vilademuls,823,432,323,20,7,No,1,el Consell Comarcal,8.87,2,7.28,1,54.1
+170353,28,Girona,Pla de l'Estany,Girona,Camós,690,347,298,18,7,No,1,el Consell Comarcal,8.87,2,7.28,1,54.1
+171236,28,Girona,Pla de l'Estany,Girona,Palol de Revardit,467,229,199,12,5,No,1,el Consell Comarcal,8.87,1,7.28,1,54.1
+170656,28,Girona,Pla de l'Estany,Girona,Esponellà,433,222,175,11,4,No,1,el Consell Comarcal,8.87,1,7.28,1,54.1
+170583,28,Girona,Pla de l'Estany,Girona,Crespià,251,130,103,6,2,No,1,el Consell Comarcal,8.87,1,7.28,0,54.1
+171740,28,Girona,Pla de l'Estany,Girona,Sant Miquel de Campmajor,228,120,89,5,2,No,1,el Consell Comarcal,8.87,0,7.28,0,54.1
+170792,20,Girona,Gironès,Girona,Girona,100266,48030,43987,2683,1012,Girona,3,"l'Ajuntament, el Consell Comarcal i la Generalitat",8.87,238,5.11,137,46.5
+171557,20,Girona,Gironès,Girona,Salt,30622,16048,11551,705,266,No,1,el Consell Comarcal,8.87,63,5.11,36,46.5
+170448,20,Girona,Gironès,Girona,Cassà de la Selva,10359,5285,4187,255,96,No,1,el Consell Comarcal,8.87,23,5.11,13,46.5
+170890,20,Girona,Gironès,Girona,Llagostera,8297,4240,3382,206,78,No,1,el Consell Comarcal,8.87,18,5.11,11,46.5
+170499,20,Girona,Gironès,Girona,Celrà,5390,2708,2098,128,48,No,1,el Consell Comarcal,8.87,11,5.11,7,46.5
+171864,20,Girona,Gironès,Girona,Sarrià de Ter,5114,2513,2154,131,50,No,1,el Consell Comarcal,8.87,12,5.11,7,46.5
+170209,20,Girona,Gironès,Girona,Bescanó,4941,2493,1985,121,46,No,1,el Consell Comarcal,8.87,11,5.11,6,46.5
+171637,20,Girona,Gironès,Girona,Sant Gregori,3740,1916,1497,91,34,No,1,el Consell Comarcal,8.87,8,5.11,5,46.5
+171426,20,Girona,Gironès,Girona,Quart,3640,1825,1420,87,33,No,1,el Consell Comarcal,8.87,8,5.11,4,46.5
+171693,20,Girona,Gironès,Girona,Sant Julià de Ramis,3461,1749,1382,84,32,No,1,el Consell Comarcal,8.87,7,5.11,4,46.5
+172155,20,Girona,Gironès,Girona,Vilablareix,2789,1383,1164,71,27,No,1,el Consell Comarcal,8.87,6,5.11,4,46.5
+170736,20,Girona,Gironès,Girona,Fornells de la Selva,2649,1316,1084,66,25,No,1,el Consell Comarcal,8.87,6,5.11,3,46.5
+170255,20,Girona,Gironès,Girona,Bordils,1701,851,717,44,16,No,1,el Consell Comarcal,8.87,4,5.11,2,46.5
+170675,20,Girona,Gironès,Girona,Flaçà,1081,525,469,29,11,No,1,el Consell Comarcal,8.87,3,5.11,1,46.5
+170502,20,Girona,Gironès,Girona,Cervià de Ter,948,487,383,23,9,No,1,el Consell Comarcal,8.87,2,5.11,1,46.5
+170025,20,Girona,Gironès,Girona,Aiguaviva,767,388,307,19,7,No,1,el Consell Comarcal,8.87,2,5.11,1,46.5
+171668,20,Girona,Gironès,Girona,Sant Jordi Desvalls,731,359,307,19,7,No,1,el Consell Comarcal,8.87,2,5.11,1,46.5
+170405,20,Girona,Gironès,Girona,Canet d'Adri,708,364,290,18,7,No,1,el Consell Comarcal,8.87,2,5.11,1,46.5
+170904,20,Girona,Gironès,Girona,Llambilles,693,353,284,17,7,No,1,el Consell Comarcal,8.87,2,5.11,1,46.5
+171729,20,Girona,Gironès,Girona,Sant Martí de Llémena,626,324,250,15,6,No,1,el Consell Comarcal,8.87,1,5.11,1,46.5
+170388,20,Girona,Gironès,Girona,Campllong,535,263,214,13,5,No,1,el Consell Comarcal,8.87,1,5.11,1,46.5
+171680,20,Girona,Gironès,Girona,Sant Joan de Mollet,502,241,218,13,5,No,1,el Consell Comarcal,8.87,1,5.11,1,46.5
+170871,20,Girona,Gironès,Girona,Juià,335,180,129,8,3,No,1,el Consell Comarcal,8.87,1,5.11,0,46.5
+170979,20,Girona,Gironès,Girona,Madremanya,282,136,122,7,3,No,1,el Consell Comarcal,8.87,1,5.11,0,46.5
+171735,20,Girona,Gironès,Girona,Sant Martí Vell,249,127,103,6,2,No,1,el Consell Comarcal,8.87,1,5.11,0,46.5
+172168,20,Girona,Gironès,Girona,Viladasens,204,108,86,5,2,No,1,el Consell Comarcal,8.87,0,5.11,0,46.5
+171576,20,Girona,Gironès,Girona,Sant Andreu Salou,156,82,65,4,1,No,1,el Consell Comarcal,8.87,0,5.11,0,46.5
+251728,23,Lleida,Noguera,Solsona,Ponts,2604,1299,1134,69,26,No,1,el Consell Comarcal,8.84,6,6.96,5,43.6
+250426,23,Lleida,Noguera,Solsona,la Baronia de Rialb,231,121,100,6,2,No,1,el Consell Comarcal,8.84,1,6.96,0,43.6
+252496,23,Lleida,Noguera,Solsona,Vilanova de l'Aguda,202,101,93,6,2,No,1,el Consell Comarcal,8.84,1,6.96,0,43.6
+252228,23,Lleida,Noguera,Solsona,Tiurana,74,38,35,2,1,No,1,el Consell Comarcal,8.84,0,6.96,0,43.6
+251497,4,Lleida,Alt Urgell,Solsona,Oliana,1787,900,784,48,18,No,1,el Consell Comarcal,8.84,4,4.86,2,18.1
+251654,4,Lleida,Alt Urgell,Solsona,Peramola,353,175,161,10,4,No,1,el Consell Comarcal,8.84,1,4.86,0,18.1
+250447,4,Lleida,Alt Urgell,Solsona,Bassella,231,113,104,6,2,No,1,el Consell Comarcal,8.84,1,4.86,0,18.1
+251001,14,Lleida,Berguedà,Solsona,Gósol,209,120,85,5,2,No,1,el Consell Comarcal,8.84,0,4.29,0,57
+252075,35,Lleida,Solsonès,Solsona,Solsona,9014,4465,3835,234,88,Solsona,1,el Consell Comarcal,8.84,21,4.09,10,9.1
+251517,35,Lleida,Solsonès,Solsona,Olius,961,508,364,22,8,No,1,el Consell Comarcal,8.84,2,4.09,1,9.1
+251930,35,Lleida,Solsonès,Solsona,Sant Llorenç de Morunys,934,457,423,26,10,No,1,el Consell Comarcal,8.84,2,4.09,1,9.1
+251673,35,Lleida,Solsonès,Solsona,Pinós,298,155,118,7,3,No,1,el Consell Comarcal,8.84,1,4.09,0,9.1
+251462,35,Lleida,Solsonès,Solsona,Navès,291,147,124,8,3,No,1,el Consell Comarcal,8.84,1,4.09,0,9.1
+251636,35,Lleida,Solsonès,Solsona,la Coma i la Pedra,265,160,99,6,2,No,1,el Consell Comarcal,8.84,1,4.09,0,9.1
+251863,35,Lleida,Solsonès,Solsona,Riner,261,130,112,7,3,No,1,el Consell Comarcal,8.84,1,4.09,0,9.1
+251484,35,Lleida,Solsonès,Solsona,Odèn,260,153,98,6,2,No,1,el Consell Comarcal,8.84,1,4.09,0,9.1
+251667,35,Lleida,Solsonès,Solsona,Pinell de Solsonès,203,119,79,5,2,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+251291,35,Lleida,Solsonès,Solsona,Llobera,195,107,79,5,2,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+251240,35,Lleida,Solsonès,Solsona,Lladurs,179,95,75,5,2,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+250753,35,Lleida,Solsonès,Solsona,Clariana de Cardener,147,74,62,4,1,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+251116,35,Lleida,Solsonès,Solsona,Guixers,138,88,45,3,1,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+250642,35,Lleida,Solsonès,Solsona,Castellar de la Ribera,137,70,54,3,1,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+251364,35,Lleida,Solsonès,Solsona,la Molsosa,109,54,51,3,1,No,1,el Consell Comarcal,8.84,0,4.09,0,9.1
+252234,32,Lleida,Segarra,Solsona,Torà,1244,624,546,33,13,No,1,el Consell Comarcal,8.84,3,3.58,1,44.4
+251919,32,Lleida,Segarra,Solsona,Sanaüja,393,206,169,10,4,No,1,el Consell Comarcal,8.84,1,3.58,0,44.4
+250557,32,Lleida,Segarra,Solsona,Biosca,181,97,77,5,2,No,1,el Consell Comarcal,8.84,0,3.58,0,44.4
+81213,21,Barcelona,Maresme,Mataró,Mataró,126988,62945,53846,3285,1238,Mataró,2,l'Ajuntament i el Consell Comarcal,8.7,286,2.36,77,32.6
+81727,21,Barcelona,Maresme,Mataró,Premià de Mar,28071,13720,12290,750,283,Premià de Mar,1,l'Ajuntament,8.7,65,2.36,18,32.6
+81189,21,Barcelona,Maresme,Mataró,el Masnou,23340,11266,10419,636,240,el Masnou,1,l'Ajuntament,8.7,55,2.36,15,32.6
+82191,21,Barcelona,Maresme,Mataró,Vilassar de Mar,20764,10018,9079,554,209,Vilassar de Mar,1,l'Ajuntament,8.7,48,2.36,13,32.6
+80095,21,Barcelona,Maresme,Mataró,Argentona,12295,6053,5237,319,120,No,1,el Consell Comarcal,8.7,28,2.36,8,32.6
+81976,21,Barcelona,Maresme,Mataró,Sant Andreu de Llavaneres,10877,5370,4651,284,107,No,1,el Consell Comarcal,8.7,25,2.36,7,32.6
+82303,21,Barcelona,Maresme,Mataró,Premià de Dalt,10429,5206,4400,268,101,No,1,el Consell Comarcal,8.7,23,2.36,6,32.6
+80039,21,Barcelona,Maresme,Mataró,Alella,9764,4751,4273,261,98,No,1,el Consell Comarcal,8.7,23,2.36,6,32.6
+82140,21,Barcelona,Maresme,Mataró,Vilassar de Dalt,9013,4435,3860,235,89,No,1,el Consell Comarcal,8.7,20,2.36,6,32.6
+82824,21,Barcelona,Maresme,Mataró,Tiana,8709,4170,3756,229,86,No,1,el Consell Comarcal,8.7,20,2.36,5,32.6
+80305,21,Barcelona,Maresme,Mataró,Cabrils,7348,3626,3089,188,71,No,1,el Consell Comarcal,8.7,16,2.36,4,32.6
+82649,21,Barcelona,Maresme,Mataró,Sant Vicenç de Montalt,6372,3194,2647,161,61,No,1,el Consell Comarcal,8.7,14,2.36,4,32.6
+82819,21,Barcelona,Maresme,Mataró,Teià,6312,3093,2785,170,64,No,1,el Consell Comarcal,8.7,15,2.36,4,32.6
+80752,21,Barcelona,Maresme,Mataró,Dosrius,5281,2681,2166,132,50,No,1,el Consell Comarcal,8.7,11,2.36,3,32.6
+80291,21,Barcelona,Maresme,Mataró,Cabrera de Mar,4664,2346,1968,120,45,No,1,el Consell Comarcal,8.7,10,2.36,3,32.6
+80327,21,Barcelona,Maresme,Mataró,Caldes d'Estrac,2859,1380,1292,79,30,No,1,el Consell Comarcal,8.7,7,2.36,2,32.6
+81537,21,Barcelona,Maresme,Mataró,Òrrius,730,375,294,18,7,No,1,el Consell Comarcal,8.7,2,2.36,0,32.6
+82665,40,Barcelona,Vallès Occidental,Cerdanyola del Vallès,Cerdanyola del Vallès,57740,28259,25402,1550,584,Cerdanyola del Vallès,1,l'Ajuntament,8.15,126,5.51,85,35.8
+81803,40,Barcelona,Vallès Occidental,Cerdanyola del Vallès,Ripollet,38347,18980,15973,974,367,Ripollet,1,l'Ajuntament,8.15,79,5.51,54,35.8
+81252,40,Barcelona,Vallès Occidental,Cerdanyola del Vallès,Montcada i Reixac,35599,17522,15068,919,347,Montcada i Reixac,1,l'Ajuntament,8.15,75,5.51,51,35.8
+82520,40,Barcelona,Vallès Occidental,Cerdanyola del Vallès,Barberà del Vallès,32839,16167,13912,849,320,Barberà del Vallès,1,l'Ajuntament,8.15,69,5.51,47,35.8
+89045,40,Barcelona,Vallès Occidental,Cerdanyola del Vallès,Badia del Vallès,13417,6565,5839,356,134,Badia del Vallès,1,l'Ajuntament,8.15,29,5.51,20,35.8
+81878,40,Barcelona,Vallès Occidental,Sabadell,Sabadell,211734,102927,92228,5626,2121,Sabadell,1,l'Ajuntament,7.95,447,5.51,310,35.8
+82606,40,Barcelona,Vallès Occidental,Sabadell,Santa Perpètua de Mogoda,25705,12933,10526,642,242,Santa Perpètua de Mogoda,1,l'Ajuntament,7.95,51,5.51,35,35.8
+80517,40,Barcelona,Vallès Occidental,Sabadell,Castellar del Vallès,24036,11855,10229,624,235,Castellar del Vallès,1,l'Ajuntament,7.95,50,5.51,34,35.8
+82384,40,Barcelona,Vallès Occidental,Sabadell,Sant Quirze del Vallès,19939,9754,8281,505,190,Sant Quirze del Vallès,1,l'Ajuntament,7.95,40,5.51,28,35.8
+81568,40,Barcelona,Vallès Occidental,Sabadell,Palau-solità i Plegamans,14636,7160,6232,380,143,No,1,el Consell Comarcal,7.95,30,5.51,21,35.8
+82671,40,Barcelona,Vallès Occidental,Sabadell,Sentmenat,8957,4532,3662,223,84,No,1,el Consell Comarcal,7.95,18,5.51,12,35.8
+81672,40,Barcelona,Vallès Occidental,Sabadell,Polinyà,8389,4230,3267,199,75,No,1,el Consell Comarcal,7.95,16,5.51,11,35.8
+82233,40,Barcelona,Vallès Occidental,Sabadell,Sant Llorenç Savall,2371,1190,1012,62,23,No,1,el Consell Comarcal,7.95,5,5.51,3,35.8
+80879,40,Barcelona,Vallès Occidental,Sabadell,Gallifa,169,90,73,4,2,No,1,el Consell Comarcal,7.95,0,5.51,0,35.8
+82055,40,Barcelona,Vallès Occidental,Rubí,Sant Cugat del Vallès,90664,44106,38017,2319,874,Sant Cugat del Vallès,1,l'Ajuntament,7.46,173,5.51,128,35.8
+81846,40,Barcelona,Vallès Occidental,Rubí,Rubí,76423,37840,32181,1963,740,Rubí,1,l'Ajuntament,7.46,146,5.51,108,35.8
+80543,40,Barcelona,Vallès Occidental,Rubí,Castellbisbal,12332,6244,4950,302,114,No,1,el Consell Comarcal,7.46,23,5.51,17,35.8
+171143,19,Girona,Garrotxa,Olot,Olot,34486,17139,14807,903,341,Olot,1,el Consell Comarcal,6.69,60,6.76,61,43.7
+172076,19,Girona,Garrotxa,Olot,la Vall d'en Bas,3029,1528,1262,77,29,No,1,el Consell Comarcal,6.69,5,6.76,5,43.7
+171851,19,Girona,Garrotxa,Olot,Sant Joan les Fonts,2966,1506,1278,78,29,No,1,el Consell Comarcal,6.69,5,6.76,5,43.7
+170195,19,Girona,Garrotxa,Olot,Besalú,2467,1161,1103,67,25,No,1,el Consell Comarcal,6.69,5,6.76,5,43.7
+171390,19,Girona,Garrotxa,Olot,les Preses,1763,873,738,45,17,No,1,el Consell Comarcal,6.69,3,6.76,3,43.7
+171334,19,Girona,Garrotxa,Olot,les Planes d'Hostoles,1660,843,719,44,17,No,1,el Consell Comarcal,6.69,3,6.76,3,43.7
+171848,19,Girona,Garrotxa,Olot,Santa Pau,1573,794,675,41,16,No,1,el Consell Comarcal,6.69,3,6.76,3,43.7
+171616,19,Girona,Garrotxa,Olot,Sant Feliu de Pallerols,1343,648,599,37,14,No,1,el Consell Comarcal,6.69,2,6.76,2,43.7
+172082,19,Girona,Garrotxa,Olot,la Vall de Bianya,1286,651,535,33,12,No,1,el Consell Comarcal,6.69,2,6.76,2,43.7
+170464,19,Girona,Garrotxa,Olot,Castellfollit de la Roca,956,486,415,25,10,No,1,el Consell Comarcal,6.69,2,6.76,2,43.7
+171096,19,Girona,Garrotxa,Olot,Montagut i Oix,899,475,361,22,8,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+171655,19,Girona,Garrotxa,Olot,Sant Jaume de Llierca,840,406,379,23,9,No,1,el Consell Comarcal,6.69,2,6.76,2,43.7
+172001,19,Girona,Garrotxa,Olot,Tortellà,801,390,350,21,8,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+171498,19,Girona,Garrotxa,Olot,Riudaura,462,224,193,12,4,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+170101,19,Girona,Garrotxa,Olot,Argelaguer,423,219,181,11,4,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+170985,19,Girona,Garrotxa,Olot,Maià de Montcal,413,217,162,10,4,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+171833,19,Girona,Garrotxa,Olot,Sant Aniol de Finestres,351,186,137,8,3,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+171058,19,Girona,Garrotxa,Olot,Mieres,312,159,132,8,3,No,1,el Consell Comarcal,6.69,1,6.76,1,43.7
+171621,19,Girona,Garrotxa,Olot,Sant Ferriol,245,125,93,6,2,No,1,el Consell Comarcal,6.69,0,6.76,0,43.7
+170216,19,Girona,Garrotxa,Olot,Beuda,187,101,70,4,2,No,1,el Consell Comarcal,6.69,0,6.76,0,43.7
+171544,19,Girona,Garrotxa,Olot,Sales de Llierca,151,76,59,4,1,No,1,el Consell Comarcal,6.69,0,6.76,0,43.7
+80771,11,Barcelona,Baix Llobregat,Esplugues de Llobregat,Esplugues de Llobregat,46355,22144,21084,1286,485,Esplugues de Llobregat,1,l'Ajuntament,6.5,84,7.5,96,33.3
+82212,11,Barcelona,Baix Llobregat,Esplugues de Llobregat,Sant Just Desvern,17494,8361,7669,468,176,No,1,el Consell Comarcal,6.5,30,7.5,35,33.3
+430939,30,Tarragona,Ribera d'Ebre,Gandesa,Móra d'Ebre,5642,2798,2435,149,56,Móra d'Ebre,1,el Consell Comarcal,6.17,9,1.55,2,7.1
+430192,30,Tarragona,Ribera d'Ebre,Gandesa,Ascó,1674,871,711,43,16,No,1,el Consell Comarcal,6.17,3,1.55,1,7.1
+430265,30,Tarragona,Ribera d'Ebre,Gandesa,Benissanet,1142,620,456,28,10,No,1,el Consell Comarcal,6.17,2,1.55,0,7.1
+431212,30,Tarragona,Ribera d'Ebre,Gandesa,Rasquera,787,387,358,22,8,No,1,el Consell Comarcal,6.17,1,1.55,0,7.1
+430672,30,Tarragona,Ribera d'Ebre,Gandesa,Ginestar,762,403,333,20,8,No,1,el Consell Comarcal,6.17,1,1.55,0,7.1
+430846,30,Tarragona,Ribera d'Ebre,Gandesa,Miravet,706,380,285,17,7,No,1,el Consell Comarcal,6.17,1,1.55,0,7.1
+430640,37,Tarragona,Terra Alta,Gandesa,Gandesa,3009,1534,1268,77,29,Gandesa,1,el Consell Comarcal,6.17,5,0.99,1,4.1
+430228,37,Tarragona,Terra Alta,Gandesa,Batea,1898,944,835,51,19,No,1,el Consell Comarcal,6.17,3,0.99,1,4.1
+430712,37,Tarragona,Terra Alta,Gandesa,Horta de Sant Joan,1146,598,482,29,11,No,1,el Consell Comarcal,6.17,2,0.99,0,4.1
+430483,37,Tarragona,Terra Alta,Gandesa,Corbera d'Ebre,1023,531,438,27,10,No,1,el Consell Comarcal,6.17,2,0.99,0,4.1
+431068,37,Tarragona,Terra Alta,Gandesa,el Pinell de Brai,998,501,443,27,10,No,1,el Consell Comarcal,6.17,2,0.99,0,4.1
+430568,37,Tarragona,Terra Alta,Gandesa,la Fatarella,965,475,432,26,10,No,1,el Consell Comarcal,6.17,2,0.99,0,4.1
+431750,37,Tarragona,Terra Alta,Gandesa,Vilalba dels Arcs,635,321,281,17,6,No,1,el Consell Comarcal,6.17,1,0.99,0,4.1
+430326,37,Tarragona,Terra Alta,Gandesa,Bot,601,305,271,17,6,No,1,el Consell Comarcal,6.17,1,0.99,0,4.1
+430189,37,Tarragona,Terra Alta,Gandesa,Arnes,466,232,213,13,5,No,1,el Consell Comarcal,6.17,1,0.99,0,4.1
+431107,37,Tarragona,Terra Alta,Gandesa,la Pobla de Massaluca,328,180,136,8,3,No,1,el Consell Comarcal,6.17,1,0.99,0,4.1
+430419,37,Tarragona,Terra Alta,Gandesa,Caseres,235,116,109,7,3,No,1,el Consell Comarcal,6.17,0,0.99,0,4.1
+431172,37,Tarragona,Terra Alta,Gandesa,Prat de Comte,179,96,76,5,2,No,1,el Consell Comarcal,6.17,0,0.99,0,4.1
+250404,23,Lleida,Noguera,Balaguer,Balaguer,16841,8519,6915,422,159,Balaguer,1,el Consell Comarcal,6.03,25,6.96,29,43.6
+250349,23,Lleida,Noguera,Balaguer,Artesa de Segre,3447,1770,1435,88,33,No,1,el Consell Comarcal,6.03,5,6.96,6,43.6
+252402,23,Lleida,Noguera,Balaguer,Vallfogona de Balaguer,1884,942,781,48,18,No,1,el Consell Comarcal,6.03,3,6.96,3,43.6
+250083,23,Lleida,Noguera,Balaguer,Albesa,1576,862,624,38,14,No,1,el Consell Comarcal,6.03,2,6.96,3,43.6
+252206,23,Lleida,Noguera,Balaguer,Térmens,1383,705,583,36,13,No,1,el Consell Comarcal,6.03,2,6.96,2,43.6
+250479,23,Lleida,Noguera,Balaguer,Bellcaire d'Urgell,1252,634,538,33,12,No,1,el Consell Comarcal,6.03,2,6.96,2,43.6
+251569,23,Lleida,Noguera,Balaguer,Os de Balaguer,1009,512,412,25,9,No,1,el Consell Comarcal,6.03,2,6.96,2,43.6
+250621,23,Lleida,Noguera,Balaguer,Camarasa,842,432,375,23,9,No,1,el Consell Comarcal,6.03,1,6.96,2,43.6
+251348,23,Lleida,Noguera,Balaguer,Menàrguens,801,450,322,20,7,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+252311,23,Lleida,Noguera,Balaguer,Torrelameu,742,426,269,16,6,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+251386,23,Lleida,Noguera,Balaguer,Montgai,635,327,290,18,7,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250024,23,Lleida,Noguera,Balaguer,Àger,611,324,259,16,6,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250693,23,Lleida,Noguera,Balaguer,Castelló de Farfanya,538,290,215,13,5,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+251641,23,Lleida,Noguera,Balaguer,Penelles,462,266,168,10,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250371,23,Lleida,Noguera,Balaguer,les Avellanes i Santa Linya,455,261,169,10,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+251771,23,Lleida,Noguera,Balaguer,Preixens,428,217,182,11,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250352,23,Lleida,Noguera,Balaguer,la Sentiu de Sió,427,223,180,11,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250156,23,Lleida,Noguera,Balaguer,Algerri,399,216,172,10,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+252509,23,Lleida,Noguera,Balaguer,Vilanova de Meià,395,225,151,9,3,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+250791,23,Lleida,Noguera,Balaguer,Cubells,358,184,157,10,4,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+251121,23,Lleida,Noguera,Balaguer,Ivars de Noguera,337,174,144,9,3,No,1,el Consell Comarcal,6.03,1,6.96,1,43.6
+251500,23,Lleida,Noguera,Balaguer,Oliola,202,108,84,5,2,No,1,el Consell Comarcal,6.03,0,6.96,0,43.6
+250498,23,Lleida,Noguera,Balaguer,Bellmunt d'Urgell,193,94,84,5,2,No,1,el Consell Comarcal,6.03,0,6.96,0,43.6
+250946,23,Lleida,Noguera,Balaguer,Foradada,173,103,61,4,1,No,1,el Consell Comarcal,6.03,0,6.96,0,43.6
+250220,23,Lleida,Noguera,Balaguer,Alòs de Balaguer,131,77,51,3,1,No,1,el Consell Comarcal,6.03,0,6.96,0,43.6
+250609,23,Lleida,Noguera,Balaguer,Cabanabona,76,33,40,2,1,No,1,el Consell Comarcal,6.03,0,6.96,0,43.6
+250215,33,Lleida,Segrià,Balaguer,Almenar,3453,1824,1418,86,33,No,1,el Consell Comarcal,6.03,5,2.48,2,18.5
+250169,33,Lleida,Segrià,Balaguer,Alguaire,2937,1552,1171,71,27,No,1,el Consell Comarcal,6.03,4,2.48,2,18.5
+250138,33,Lleida,Segrià,Balaguer,Alfarràs,2822,1480,1155,70,27,No,1,el Consell Comarcal,6.03,4,2.48,2,18.5
+252516,33,Lleida,Segrià,Balaguer,Vilanova de Segrià,945,494,392,24,9,No,1,el Consell Comarcal,6.03,1,2.48,1,18.5
+251749,33,Lleida,Segrià,Balaguer,la Portella,703,399,265,16,6,No,1,el Consell Comarcal,6.03,1,2.48,0,18.5
+251229,27,Lleida,Pla d'Urgell,Balaguer,Linyola,2660,1340,1119,68,26,No,1,el Consell Comarcal,6.03,4,2.17,1,20.4
+250523,27,Lleida,Pla d'Urgell,Balaguer,Bellvís,2266,1149,975,59,22,No,1,el Consell Comarcal,6.03,4,2.17,1,20.4
+251137,27,Lleida,Pla d'Urgell,Balaguer,Ivars d'Urgell,1557,817,630,38,14,No,1,el Consell Comarcal,6.03,2,2.17,1,20.4
+250411,27,Lleida,Pla d'Urgell,Balaguer,Barbens,939,505,378,23,9,No,1,el Consell Comarcal,6.03,1,2.17,1,20.4
+251689,27,Lleida,Pla d'Urgell,Balaguer,el Poal,626,325,270,16,6,No,1,el Consell Comarcal,6.03,1,2.17,0,20.4
+250030,38,Lleida,Urgell,Balaguer,Agramunt,5393,2700,2265,138,52,No,1,el Consell Comarcal,6.03,8,1.52,2,20.6
+250962,38,Lleida,Urgell,Balaguer,la Fuliola,1217,606,511,31,12,No,1,el Consell Comarcal,6.03,2,1.52,0,20.6
+250707,38,Lleida,Urgell,Balaguer,Castellserà,1000,496,443,27,10,No,1,el Consell Comarcal,6.03,2,1.52,0,20.6
+252252,38,Lleida,Urgell,Balaguer,Tornabous,879,473,359,22,8,No,1,el Consell Comarcal,6.03,1,1.52,0,20.6
+251811,38,Lleida,Urgell,Balaguer,Puigverd d'Agramunt,231,131,88,5,2,No,1,el Consell Comarcal,6.03,0,1.52,0,20.6
+80229,14,Barcelona,Berguedà,Berga,Berga,16199,7979,7155,436,165,Berga,2,l'Ajuntament i el Consell Comarcal,5.85,26,4.29,19,57
+80924,14,Barcelona,Berguedà,Berga,Gironella,4834,2396,2109,129,49,No,1,el Consell Comarcal,5.85,8,4.29,6,57
+81751,14,Barcelona,Berguedà,Berga,Puig-reig,4094,2024,1827,111,42,No,1,el Consell Comarcal,5.85,7,4.29,5,57
+80116,14,Barcelona,Berguedà,Berga,Avià,2250,1120,959,58,22,No,1,el Consell Comarcal,5.85,3,4.29,3,57
+80168,14,Barcelona,Berguedà,Berga,Bagà,2152,1075,970,59,22,No,1,el Consell Comarcal,5.85,3,4.29,3,57
+80497,14,Barcelona,Berguedà,Berga,Casserres,1572,780,695,42,16,No,1,el Consell Comarcal,5.85,2,4.29,2,57
+82687,14,Barcelona,Berguedà,Berga,Cercs,1152,567,530,32,12,No,1,el Consell Comarcal,5.85,2,4.29,1,57
+81666,14,Barcelona,Berguedà,Berga,la Pobla de Lillet,1101,535,532,32,12,No,1,el Consell Comarcal,5.85,2,4.29,1,57
+80996,14,Barcelona,Berguedà,Berga,Guardiola de Berguedà,887,458,377,23,9,No,1,el Consell Comarcal,5.85,1,4.29,1,57
+81445,14,Barcelona,Berguedà,Berga,Olvan,837,405,382,23,9,No,1,el Consell Comarcal,5.85,1,4.29,1,57
+81326,14,Barcelona,Berguedà,Berga,Montmajor,465,237,193,12,4,No,1,el Consell Comarcal,5.85,1,4.29,1,57
+80240,14,Barcelona,Berguedà,Berga,Borredà,456,257,183,11,4,No,1,el Consell Comarcal,5.85,1,4.29,0,57
+82994,14,Barcelona,Berguedà,Berga,Vilada,430,226,192,12,4,No,1,el Consell Comarcal,5.85,1,4.29,1,57
+81901,14,Barcelona,Berguedà,Berga,Saldes,265,154,107,7,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80787,14,Barcelona,Berguedà,Berga,l'Espunyola,258,130,115,7,3,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+82938,14,Barcelona,Berguedà,Berga,Vallcebre,246,139,97,6,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+89030,14,Barcelona,Berguedà,Berga,Sant Julià de Cerdanyola,244,133,99,6,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+82554,14,Barcelona,Berguedà,Berga,Santa Maria de Merlès,183,90,71,4,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80522,14,Barcelona,Berguedà,Berga,Castellar de n'Hug,165,86,70,4,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80500,14,Barcelona,Berguedà,Berga,Castellar del Riu,165,92,63,4,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+83089,14,Barcelona,Berguedà,Berga,Viver i Serrateix,164,86,66,4,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+81884,14,Barcelona,Berguedà,Berga,Sagàs,161,90,61,4,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+81424,14,Barcelona,Berguedà,Berga,la Nou de Berguedà,160,81,70,4,2,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+81304,14,Barcelona,Berguedà,Berga,Montclar,129,66,53,3,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80459,14,Barcelona,Berguedà,Berga,Capolat,96,45,40,2,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80575,14,Barcelona,Berguedà,Berga,Castell de l'Areny,72,41,29,2,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+81770,14,Barcelona,Berguedà,Berga,la Quar,60,32,23,1,1,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80804,14,Barcelona,Berguedà,Berga,Fígols,42,25,16,1,0,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+82166,14,Barcelona,Berguedà,Berga,Sant Jaume de Frontanyà,30,18,10,1,0,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+80930,14,Barcelona,Berguedà,Berga,Gisclareny,26,15,11,1,0,No,1,el Consell Comarcal,5.85,0,4.29,0,57
+171479,31,Girona,Ripollès,Ripoll,Ripoll,10632,5251,4698,287,108,Ripoll,1,el Consell Comarcal,4.59,13,14.01,40,77
+171674,31,Girona,Ripollès,Ripoll,Sant Joan de les Abadesses,3224,1606,1437,88,33,No,1,el Consell Comarcal,4.59,4,14.01,12,77
+170366,31,Girona,Ripollès,Ripoll,Campdevànol,3204,1556,1444,88,33,No,1,el Consell Comarcal,4.59,4,14.01,12,77
+170391,31,Girona,Ripollès,Ripoll,Camprodon,2261,1111,1001,61,23,No,1,el Consell Comarcal,4.59,3,14.01,9,77
+171450,31,Girona,Ripollès,Ripoll,Ribes de Freser,1766,879,808,49,19,No,1,el Consell Comarcal,4.59,2,14.01,7,77
+171772,31,Girona,Ripollès,Ripoll,Sant Pau de Segúries,707,349,316,19,7,No,1,el Consell Comarcal,4.59,1,14.01,3,77
+170911,31,Girona,Ripollès,Ripoll,Llanars,514,267,208,13,5,No,1,el Consell Comarcal,4.59,1,14.01,2,77
+172240,31,Girona,Ripollès,Ripoll,Vilallonga de Ter,404,211,174,11,4,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+171077,31,Girona,Ripollès,Ripoll,Molló,328,159,143,9,3,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+171349,31,Girona,Ripollès,Ripoll,Planoles,303,170,117,7,3,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+171122,31,Girona,Ripollès,Ripoll,Ogassa,226,129,85,5,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+170963,31,Girona,Ripollès,Ripoll,les Llosses,219,122,78,5,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+171707,31,Girona,Ripollès,Ripoll,Vallfogona de Ripollès,212,115,86,5,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+170806,31,Girona,Ripollès,Ripoll,Gombrèn,186,94,78,5,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+170433,31,Girona,Ripollès,Ripoll,Queralbs,186,103,78,5,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+171925,31,Girona,Ripollès,Ripoll,Setcases,168,89,72,4,2,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+172018,31,Girona,Ripollès,Ripoll,Toses,165,100,55,3,1,No,1,el Consell Comarcal,4.59,0,14.01,0,77
+171254,31,Girona,Ripollès,Ripoll,Pardines,162,90,62,4,1,No,1,el Consell Comarcal,4.59,0,14.01,1,77
+170372,31,Girona,Ripollès,Ripoll,Campelles,133,70,56,3,1,No,1,el Consell Comarcal,4.59,0,14.01,0,77
+172121,24,Girona,Osona,Ripoll,Vidrà,173,88,75,5,2,No,1,el Consell Comarcal,4.59,0,7.36,0,48.1

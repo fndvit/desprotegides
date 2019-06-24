@@ -12,7 +12,7 @@ Atès que els pressupostos publicats en els portals de transparència no especif
 
 Vam entrevistar a la Raquel qui gairebé va ser assassinada per la seva ex-parella. Ara treballa per ajudar a dones que passan per la mateixa situació. Vam filmar entrevistes amb experts i vam parlar amb més d’una desena d’altres per entendre la xarxa de professionals implicats en casos de violència envers les dones.
 
-Podeu trobar tots aquests documents i dades nets a les carpetes corresponents.
+Podeu trobar tots aquests [documents] (https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades] (https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
 
 ## Alerta nerd
 Per al segon mapa del gràfic scrollytelling al capítol 3, vam obtenir les zones a menys de 30 minuts amb cotxe del 100 i escaig SIADs fent servir l'API Isochrone de Mapbox. Després les hem fusionat i hem utilitzat el resultat per retallar un raster amb dades de densitat de població (amb nombre de persones per cel·la) per estimar la població en el rang d’un SIAD.
@@ -50,7 +50,7 @@ We read through dozens of European, Spanish and Catalan studies and assessments 
 We interviewed Raquel who was almost killed by her ex-partner. She now works helping women going through the same situation.
 We filmed interviews with experts and spoke to more than a dozen others to understand the network of professionals involved in cases of violence against women.
 
-You can find all these documents and clean datasets in the corresponding folders.
+You can find all these [documents] (https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets] (https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
 
 ## Nerd alert
 For the second map on the scrollytelling graphic, we retrieved the areas within a 30-minute drive from every one of the 100 and some Women’s Support and Information Center (SIADs) using Mapbox’s Isochrone API. We then merged them and used the result to clip a raster dataset with population density (with number of people per cell) to estimate the population in range of a SIAD.
