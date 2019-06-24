@@ -4,20 +4,20 @@
 
 Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat. 
 
-L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, concienciació i millora de la situació actual.
+L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, conscienciació i millora de la situació actual.
 
 # Per què la violència masclista?
-Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo (http://proyectocuentalo.org/), on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven ampliament explicats. Calia posar el focus en com l’administració tractava un assumpte de tal dimensió. 
+Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo (http://proyectocuentalo.org/), on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven àmpliament explicats. Calia posar el focus en com l’administració tractava un assumpte de tal dimensió. 
 Xaquin G.V. va insistir en el tema perquè malauradament encara queda molt a explicar. 
  
 ## Metodologia
-Després d'una primera ullada a les dades, vam tenir clar que calia visibilitzar la violència masclista silenciada. Quan els mitjans de comunicació informen del tema, sovint no es mostra l’abast, la freqüència i la gravetat de totes les formes de violència contra les dones. Tenim l’esperança de que el llarg *scroll* de dones a l'inici de l’història ajudi a entendre la magnitud.
+Després d'una primera ullada a les dades, vam tenir clar que calia visibilitzar la violència masclista silenciada. Quan els mitjans de comunicació informen del tema, sovint no es mostra l’abast, la freqüència i la gravetat de totes les formes de violència contra les dones. Tenim l’esperança que el llarg *scroll* de dones a l'inici de la història ajudi a entendre la magnitud.
 
 La cerca de dades ha estat basada en la dècada del 2008-18 — moment que el Parlament va aprovar la Llei sobre el dret de les dones a erradicar la violència masclista-. Hem analitzat dades dels Mossos d'Esquadra, del Consell General del Poder Judicial, del departament de Salut, de l’Institut Català de les Dones i de múltiples enquestes  —les estimacions que utilitzem a l’informe es basen en l’Enquesta de Violència Masclista 2016, del Departament d'Interior—. Hem llegit desenes d’estudis i avaluacions europees, espanyoles i catalanes de programes públics.
 
-Atès que els pressupostos publicats en els portals de transparència no especifiquen les partides destinades a la violència masclista, vam demanar per la Llei de Transparència aquesta informació. Després de l’ajornament d'un mes, l'Institut Català de les Dones va demanar un segon ajornament. Finalment, el que hem rebut és un recull d'informes prèviament publicats —i que ja eran a la nostra col·lecció de fonts—. Aquest enviament ens ha servit, però, per adonar-nos que les dades recollides anys anteriors i les que ens ha passat l'ICD avui responen a diferents criteris perquè no coincideixen. Per tant, poc poden aportar.
+Atès que els pressupostos publicats en els portals de transparència no especifiquen les partides destinades a la violència masclista, vam demanar per la Llei de Transparència aquesta informació. Després de l’ajornament d'un mes, l'Institut Català de les Dones va demanar un segon ajornament. Finalment, el que hem rebut és un recull d'informes prèviament publicats —i que ja eren a la nostra col·lecció de fonts—. Aquest enviament ens ha servit, però, per adonar-nos que les dades recollides anys anteriors i les que ens ha passat l'ICD avui responen a diferents criteris perquè no coincideixen. Per tant, poc poden aportar. Igualment, encara que s'hagi publicat el reportatge, aspirem a aclarir aquestes dades facilitades en el darrer moment i a fer-les públiques, perquè és la primera vegada que es presenten per departaments i partides pressupostàries i durant la dècada del 2008-18. 
 
-Vam entrevistar a la Raquel, la dona que gairebé va ser assassinada per la seva ex-parella. Ara treballa per ajudar a dones que passan per la mateixa situació. Agraïm especialment la seva intervenció, perquè recordar de nou aquella història i atrevir-se a explicar-la davant d'una càmera no ha de ser gens fàcil. 
+Vam entrevistar a la Raquel, la dona que gairebé va ser assassinada per la seva ex-parella. Ara treballa per ajudar a dones que passen per la mateixa situació. Agraïm especialment la seva intervenció, perquè recordar de nou aquella història i atrevir-se a explicar-la davant d'una càmera no ha de ser gens fàcil. 
 
 Vam filmar entrevistes amb experts i vam parlar amb més d’una desena de professionals que atenen les dones agredides per entendre millor el context, així com més exemples de dones que s'havien trobat en situacions similars a les de Raquel. 
 
@@ -41,7 +41,7 @@ Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una
 
 **Xaquín G.V.** és un periodista de dades i editor visual gallec. Entre 2014 i 2017, va dirigir l'equip de Visuals de The Guardian a Londres. Abans va treballar a National Geographic, The New York Times, Newsweek i El Mundo (Espanya).
 
-**Rocío Minvielle** és una documentalista audiovisual, productora, activista feminista i part del colectiu insurRECtas.
+**Rocío Minvielle** és una documentalista audiovisual, productora, activista feminista i part del col·lectiu insurRECtas.
 
 ---
 
