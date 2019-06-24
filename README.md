@@ -2,7 +2,9 @@
 
 # Desprotegides, malgrat tot
 
-Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat. L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, concienciació i millora de la situació actual.
+Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat. 
+
+L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, concienciació i millora de la situació actual.
 
 # Per què la violència masclista?
 Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo (http://proyectocuentalo.org/), on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven ampliament explicats. Calia posar el focus en com l’administració tractava un assumpte de tal dimensió. 
