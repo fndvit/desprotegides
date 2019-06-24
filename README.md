@@ -35,7 +35,7 @@ Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una
 **Rocío Minvielle** és una documentalista audiovisual, productora, activista feminista i part del colectiu insurRECtas.
 
 
-# <center>-*-</center>
+# <p align="center">-*-</p>
 
 ---
 
