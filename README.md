@@ -1,4 +1,4 @@
-#### Read in [English](https://github.com/xaquingv/desprotegides/blob/master/README.md#unprotected--in-spite-of-everything)
+#### Read in [English](https://github.com/xaquingv/desprotegides/blob/master/README.md#read-in-english)
 
 # Desprotegides malgrat tot
 Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo, on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven ampliament explicats. Calia posar el focus en com estava encarant l’administració un assumpte de tal dimensió. 
@@ -36,7 +36,7 @@ Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una
 
 ---
 
-#### Llegueix en [català](https://github.com/xaquingv/desprotegides/blob/master/README.md#--)
+#### Llegueix en [català](https://github.com/xaquingv/desprotegides/blob/master/README.md#llegueix-en-catal%C3%A0)
 
 # Unprotected — in spite of everything
 Between 2017 and 2018, Karma Peiró had been involved in project #Cuéntalo, which recorded the stories of thousands of women speaking out about their personal experiences with violence in 140 characters.
