@@ -16,10 +16,10 @@ Vam entrevistar a la Raquel qui gairebé va ser assassinada per la seva ex-parel
 
 Podeu trobar tots aquests [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades](https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
 
-## Alerta nerd
+## Alerta nerd 🤓
 Per al segon mapa del gràfic scrollytelling al capítol 3, vam obtenir les zones a menys de 30 minuts amb cotxe del 100 i escaig SIADs fent servir l'API Isochrone de Mapbox. Després les hem fusionat i hem utilitzat el resultat per retallar un raster amb dades de densitat de població (amb nombre de persones per cel·la) per estimar la població en el rang d’un SIAD.
 
-## Sob el disseny
+## Sob el disseny 😏
 Aquesta és una història sobre la violència contra les dones i un dels pilars que donen suport al patriarcat és la invisibilitat de les contribucions de les dones en tots els camps. Per a la nostra presentació, vam escollir fonts dissenyades per Veronika Burian i Jose Scaglione, fundadors de TypeTogether. Burian és membre fundador de [alphabettes.org](http://www.alphabettes.org/about/), una xarxa per donar suport i promoure el treball de les dones en disseny i tipografia. Si sou un nerd de la tipografia, aquí teniu unes lectures molt macas:
 - [The Eye on Design Guide to Women-Designed Contemporary Type](https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
 - [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
@@ -27,7 +27,7 @@ Aquesta és una història sobre la violència contra les dones i un dels pilars 
 
 Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una font de ProPublica i Alberto Cairo, i vam escollir a l'atzar lletres de la cadena 'abcdefghijklmnopqrs' — amb tots els personatges femenins disponibles a la font.
 
-## L'equip
+## L'equip 😍
 **Karma Peiró** és una periodista i docent catalana especialitzada en internet i el periodisme de dades. Va ser directora de Nació Digital des del juliol de 2015 fins a l'abril de 2018. Abans va ocupar càrrecs de responsabilitat a ara Web, en.red.ando, Catalunya Ràdio, La Vanguardia Digital i TVE.
 
 **Xaquín G.V.** és un periodista de dades i editor visual gallec. Entre 2014 i 2017, va dirigir l'equip de Visuals de The Guardian a Londres. Abans va treballar a National Geographic, The New York Times, Newsweek i El Mundo (Espanya).
@@ -57,10 +57,10 @@ We filmed interviews with experts and spoke to more than a dozen others to under
 
 You can find all these [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets](https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
 
-## Nerd alert
+## Nerd alert 🤓
 For the second map on the scrollytelling graphic, we retrieved the areas within a 30-minute drive from every one of the 100 and some Women’s Support and Information Center (SIADs) using Mapbox’s Isochrone API. We then merged them and used the result to clip a raster dataset with population density (with number of people per cell) to estimate the population in range of a SIAD.
 
-## About the design
+## About the design 😏
 This is a story about violence against women and one of the pillars that support patriarchy is the invisibility of women’s contributions in every field. For our presentation, we chose fonts designed by Veronika Burian and Jose Scaglione — founders of TypeTogether. Burian is a founding member of [alphabettes.org](http://www.alphabettes.org/about/), a network to support and promote the work of women in Design and Typography. If you’re a type nerd, here’re some nice reads:
 - [The Eye on Design Guide to Women-Designed Contemporary Type](https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
 - [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
@@ -68,7 +68,7 @@ This is a story about violence against women and one of the pillars that support
 
 For the wall of 75.000 women in the first graphic we used WeePeople, a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font. They are: TK TK list from David Sleight TK TK
 
-## The team
+## The team 😍
 **Karma Peiró** is a data journalist and instructor from Catalunya. She was the editor in chief at Nació Digital between 2015 and 2018. Before that, she worked and lead teams at ara Web, en.red.ando, Catalunya Ràdio, La Vanguardia Digital, and TVE.
 
 **Xaquín G.V.** is an interactive, data and visual journalist from Galicia. Between 2014 and 2017, he led the Visuals desk at The Guardian in London. Before that, he worked at National Geographic, The New York Times, Newsweek and El Mundo (Spain).
