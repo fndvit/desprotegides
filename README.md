@@ -12,16 +12,16 @@ Atès que els pressupostos publicats en els portals de transparència no especif
 
 Vam entrevistar a la Raquel qui gairebé va ser assassinada per la seva ex-parella. Ara treballa per ajudar a dones que passan per la mateixa situació. Vam filmar entrevistes amb experts i vam parlar amb més d’una desena d’altres per entendre la xarxa de professionals implicats en casos de violència envers les dones.
 
-Podeu trobar tots aquests [documents] (https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades] (https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
+Podeu trobar tots aquests [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades](https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
 
 ## Alerta nerd
 Per al segon mapa del gràfic scrollytelling al capítol 3, vam obtenir les zones a menys de 30 minuts amb cotxe del 100 i escaig SIADs fent servir l'API Isochrone de Mapbox. Després les hem fusionat i hem utilitzat el resultat per retallar un raster amb dades de densitat de població (amb nombre de persones per cel·la) per estimar la població en el rang d’un SIAD.
 
 ## Sob el disseny
-Aquesta és una història sobre la violència contra les dones i un dels pilars que donen suport al patriarcat és la invisibilitat de les contribucions de les dones en tots els camps. Per a la nostra presentació, vam escollir fonts dissenyades per Veronika Burian i Jose Scaglione, fundadors de TypeTogether. Burian és membre fundador de [alphabettes.org] (http://www.alphabettes.org/about/), una xarxa per donar suport i promoure el treball de les dones en disseny i tipografia. Si sou un nerd de la tipografia, aquí teniu unes lectures molt macas:
-- [The Eye on Design Guide to Women-Designed Contemporary Type] (https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
-- [Fonts by Women, curated by Ellen Lupton] (https://fonts.adobe.com/collections/fonts-by-women)
-- [typequality.com] (https://www.typequality.com)
+Aquesta és una història sobre la violència contra les dones i un dels pilars que donen suport al patriarcat és la invisibilitat de les contribucions de les dones en tots els camps. Per a la nostra presentació, vam escollir fonts dissenyades per Veronika Burian i Jose Scaglione, fundadors de TypeTogether. Burian és membre fundador de [alphabettes.org](http://www.alphabettes.org/about/), una xarxa per donar suport i promoure el treball de les dones en disseny i tipografia. Si sou un nerd de la tipografia, aquí teniu unes lectures molt macas:
+- [The Eye on Design Guide to Women-Designed Contemporary Type](https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
+- [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
+- [typequality.com](https://www.typequality.com)
 
 Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una font de ProPublica i Alberto Cairo, i vam escollir a l'atzar lletres de la cadena 'abcdefghijklmnopqrs' — amb tots els personatges femenins disponibles a la font.
 
@@ -32,7 +32,9 @@ Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una
 
 **Rocío Minvielle** és una documentalista audiovisual, productora, activista feminista i part del colectiu insurRECtas.
 
+
 ---
+
 # Unprotected — in spite of everything
 Between 2017 and 2018, Karma Peiró had been involved in project #Cuéntalo, which recorded the stories of thousands of women speaking out about their personal experiences with violence in 140 characters.
 
@@ -50,16 +52,16 @@ We read through dozens of European, Spanish and Catalan studies and assessments 
 We interviewed Raquel who was almost killed by her ex-partner. She now works helping women going through the same situation.
 We filmed interviews with experts and spoke to more than a dozen others to understand the network of professionals involved in cases of violence against women.
 
-You can find all these [documents] (https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets] (https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
+You can find all these [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets](https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
 
 ## Nerd alert
 For the second map on the scrollytelling graphic, we retrieved the areas within a 30-minute drive from every one of the 100 and some Women’s Support and Information Center (SIADs) using Mapbox’s Isochrone API. We then merged them and used the result to clip a raster dataset with population density (with number of people per cell) to estimate the population in range of a SIAD.
 
 ## About the design
-This is a story about violence against women and one of the pillars that support patriarchy is the invisibility of women’s contributions in every field. For our presentation, we chose fonts designed by Veronika Burian and Jose Scaglione — founders of TypeTogether. Burian is a founding member of [alphabettes.org] (http://www.alphabettes.org/about/), a network to support and promote the work of women in Design and Typography. If you’re a type nerd, here’re some nice reads:
-- [The Eye on Design Guide to Women-Designed Contemporary Type] (https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
-- [Fonts by Women, curated by Ellen Lupton] (https://fonts.adobe.com/collections/fonts-by-women)
-- [typequality.com] (https://www.typequality.com)
+This is a story about violence against women and one of the pillars that support patriarchy is the invisibility of women’s contributions in every field. For our presentation, we chose fonts designed by Veronika Burian and Jose Scaglione — founders of TypeTogether. Burian is a founding member of [alphabettes.org](http://www.alphabettes.org/about/), a network to support and promote the work of women in Design and Typography. If you’re a type nerd, here’re some nice reads:
+- [The Eye on Design Guide to Women-Designed Contemporary Type](https://medium.com/aiga-eye-on-design/the-eye-on-design-guide-to-women-designed-contemporary-type-d3ddfbfbfc99)
+- [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
+- [typequality.com](https://www.typequality.com)
 
 For the wall of 75.000 women in the first graphic we used WeePeople, a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font. They are: TK TK list from David Sleight TK TK
 
