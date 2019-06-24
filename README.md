@@ -12,7 +12,7 @@ Atès que els pressupostos publicats en els portals de transparència no especif
 
 Vam entrevistar a la Raquel qui gairebé va ser assassinada per la seva ex-parella. Ara treballa per ajudar a dones que passan per la mateixa situació. Vam filmar entrevistes amb experts i vam parlar amb més d’una desena d’altres per entendre la xarxa de professionals implicats en casos de violència envers les dones.
 
-Podeu trobar tots aquests [documents] (https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades] (https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
+Podeu trobar tots aquests [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades] (https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
 
 ## Alerta nerd
 Per al segon mapa del gràfic scrollytelling al capítol 3, vam obtenir les zones a menys de 30 minuts amb cotxe del 100 i escaig SIADs fent servir l'API Isochrone de Mapbox. Després les hem fusionat i hem utilitzat el resultat per retallar un raster amb dades de densitat de població (amb nombre de persones per cel·la) per estimar la població en el rang d’un SIAD.
