@@ -1,4 +1,4 @@
-codimuni,codicomarca,provincia,comarca,partitjudicial,municipi,poblacio,homes,dones,greus,moltgreus,siadmuni,siadsnombre,siadstitularitat,tasadenuncia,estimaciodenuncies,tasaatesses,estimacioatesses,tasaatessesvm
+codimuni,codicomarca,provincia,comarca,partitjudicial,municipi,poblacio,homes,dones,greus,moltgreus,siadmuni,siadsnombre,siadstitularitat,tasadenuncia,estimaciodenuncies,tasaateses,estimacioateses,tasaatesesvm
 170237,34,Girona,Selva,Blanes,Blanes,38790,19272,16737,1021,385,Blanes,1,l'Ajuntament,18.31,187,6.28,64,47.5
 170950,34,Girona,Selva,Blanes,Lloret de Mar,37350,19099,15430,941,355,Lloret de Mar,1,l'Ajuntament,18.31,172,6.28,59,47.5
 172023,34,Girona,Selva,Blanes,Tossa de Mar,5584,2816,2390,146,55,No,1,el Consell Comarcal,18.31,27,6.28,9,47.5
