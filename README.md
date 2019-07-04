@@ -7,8 +7,7 @@ Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat.
 L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, conscienciació i millora de la situació actual.
 
 # Per què la violència masclista?
-Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo (http://proyectocuentalo.org/), on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven àmpliament explicats. Calia posar el focus en com l’administració tractava un assumpte de tal dimensió. 
-Xaquin G.V. va insistir en el tema perquè malauradament encara queda molt a explicar. 
+Karma Peiró venia de participar —durant 8 mesos— en el projecte #Cuéntalo (http://proyectocuentalo.org/), on milers de dones havien narrat les seves històries de violència masclista en 140 caràcters. Els drames personals estaven àmpliament explicats. Calia posar el focus en com l’administració tractava un assumpte de tal dimensió.
  
 ## Metodologia
 Després d'una primera ullada a les dades, vam tenir clar que calia visibilitzar la violència masclista silenciada. Quan els mitjans de comunicació informen del tema, sovint no es mostra l’abast, la freqüència i la gravetat de totes les formes de violència contra les dones. Tenim l’esperança que el llarg *scroll* de dones a l'inici de la història ajudi a entendre la magnitud.
@@ -52,17 +51,16 @@ Between 2017 and 2018, Karma Peiró had been involved in project #Cuéntalo, whi
 
 These were powerful personal dramas, what was the government doing to address violence against women?
 
-The story received funding from Fundació.Cat, a private non-profit that promotes the Catalan language and culture in technology. Our goal was government accountability TK TK.
+The story received funding from Fundació.Cat, a private non-profit that promotes the Catalan language and culture in technology. Our goal was government accountability: were the resources in place enough?
 
 Our first task was to visualize the real breadth of the issue: even when media outlets report on it, we often fail to properly showcase the reach, frequency, and severity of all forms of violence against women. Hopefully, our long scroll of women helps our audience grasp the magnitude.
 
 ## Methodology
 We limited our time scope to the past decade — since Parliament passed the Catalan Law on Women's Right to Eradicate Gender Violence. We analyzed data from the regional police, the courts, the health department, the Catalan Institute for Women, and multiple surveys. The estimates we use throughout the report are based on the 2016 Catalan survey.
 
-We read through dozens of European, Spanish and Catalan studies and assessments of public programs. Since the government budget doesn’t classify when an investment is linked to the program to combat and prevent violence against women, we requested that breakdown through the Transparency Law to various departments and, after some extensions, we received a breakdown by department and a collection of reports that had previously been released — and that were already in our cache of sources.
+We read through dozens of European, Spanish and Catalan studies and assessments of public programs. Since the government budget doesn’t classify when an investment is linked to the program to combat and prevent violence against women, we requested that breakdown through the Transparency Law to various departments and, after some extensions, we received a breakdown by department and a collection of reports that had previously been released — and that were already in our cache of sources. The criteria used for it is different that in other partial budget breakdowns.
 
-We interviewed Raquel who was almost killed by her ex-partner. She now works helping women going through the same situation.
-We filmed interviews with experts and spoke to more than a dozen others to understand the network of professionals involved in cases of violence against women.
+We interviewed Raquel who was almost killed by her ex-partner. She now works helping women going through the same situation. We filmed interviews with experts and spoke to more than a dozen others to understand the network of professionals involved in cases of violence against women.
 
 You can find all these [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets](https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
 
@@ -75,7 +73,7 @@ This is a story about violence against women and one of the pillars that support
 - [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
 - [typequality.com](https://www.typequality.com)
 
-For the wall of 75.000 women in the first graphic we used WeePeople, a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font. They are: TK TK list from David Sleight TK TK
+For the wall of 75.000 women in the first graphic we used WeePeople, a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font.
 
 ## The team 😍
 **Karma Peiró** is a data journalist and instructor from Catalunya. She was the editor in chief at Nació Digital between 2015 and 2018. Before that, she worked and lead teams at Web Magazine, en.red.ando, Catalunya Ràdio, La Vanguardia Digital, and TV3.
