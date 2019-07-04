@@ -33,7 +33,7 @@ Per a la nostra presentació, vam escollir fonts dissenyades per Veronika Burian
 - [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
 - [typequality.com](https://www.typequality.com)
 
-Per a la cortina de 75.000 dones del primer gràfic vam utilitzar WeePeople, una font de ProPublica i d'Alberto Cairo. Vam escollir a l'atzar lletres de la cadena 'abcdefghijklmnopqrs' — amb tots els personatges femenins disponibles a la font.
+Per a la cortina de 75.000 dones del primer gràfic vam utilitzar [WeePeople](https://github.com/propublica/weepeople), una font de ProPublica i d'Alberto Cairo. Vam escollir a l'atzar lletres de la cadena 'abcdefghijklmnopqrs' — amb tots els personatges femenins disponibles a la font.
 
 ## L'equip 😍
 **Karma Peiró** és una periodista i docent catalana especialitzada en internet i el periodisme de dades. Va ser directora de Nació Digital des del juliol de 2015 fins a l'abril de 2018. Abans va ocupar càrrecs de responsabilitat a la revista Web, en.red.ando, La Vanguardia Digital i TV3.
@@ -73,7 +73,7 @@ This is a story about violence against women and one of the pillars that support
 - [Fonts by Women, curated by Ellen Lupton](https://fonts.adobe.com/collections/fonts-by-women)
 - [typequality.com](https://www.typequality.com)
 
-For the wall of 75.000 women in the first graphic we used WeePeople, a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font.
+For the wall of 75.000 women in the first graphic we used [WeePeople](https://github.com/propublica/weepeople), a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font.
 
 ## The team 😍
 **Karma Peiró** is a data journalist and instructor from Catalunya. She was the editor in chief at Nació Digital between 2015 and 2018. Before that, she worked and lead teams at Web Magazine, en.red.ando, Catalunya Ràdio, La Vanguardia Digital, and TV3.
