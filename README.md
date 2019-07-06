@@ -12,7 +12,9 @@ Karma Peiró venia de participar —durant 8 mesos— en el projecte [#Cuéntalo
 ## Metodologia
 Després d'una primera ullada a les dades, vam tenir clar que calia visibilitzar la violència masclista silenciada. Quan els mitjans de comunicació informen del tema, sovint no es mostra l’abast, la freqüència i la gravetat de totes les formes de violència contra les dones. Tenim l’esperança que el llarg *scroll* de dones a l'inici de la història ajudi a entendre la magnitud.
 
-La cerca de dades ha estat basada en la dècada del 2008-18 — moment que el Parlament va aprovar la Llei sobre el dret de les dones a erradicar la violència masclista-. Hem analitzat dades dels Mossos d'Esquadra, del Consell General del Poder Judicial, del departament de Salut, de l’Institut Català de les Dones i de múltiples enquestes  —les estimacions que utilitzem a l’informe es basen en l’Enquesta de Violència Masclista 2016, del Departament d'Interior—. Hem llegit desenes d’estudis i avaluacions europees, espanyoles i catalanes de programes públics.
+La cerca de dades ha estat basada en la dècada del 2008-18 — moment que el Parlament va aprovar la Llei sobre el dret de les dones a erradicar la violència masclista-. Hem analitzat dades dels Mossos d'Esquadra, del Consell General del Poder Judicial, del departament de Salut, de l’Institut Català de les Dones i de múltiples enquestes. Hem llegit desenes d’estudis i avaluacions europees, espanyoles i catalanes de programes públics.
+
+Les estimacions que utilitzem a l’informe es basen en l’Enquesta de Violència Masclista 2016, del Departament d'Interior. 
 
 Atès que els pressupostos publicats en els portals de transparència no especifiquen les partides destinades a la violència masclista, vam demanar per la Llei de Transparència aquesta informació. Després de l’ajornament d'un mes, l'Institut Català de les Dones va demanar un segon ajornament. Finalment, el que hem rebut és un recull d'informes prèviament publicats —i que ja eren a la nostra col·lecció de fonts—. Aquest enviament ens ha servit, però, per adonar-nos que les dades recollides anys anteriors i les que ens ha passat l'ICD avui responen a diferents criteris perquè no coincideixen. Igualment, encara que s'hagi publicat el reportatge, aspirem a aclarir aquestes dades facilitades en el darrer moment i a fer-les públiques, perquè és la primera vegada que es presenten per departaments i partides pressupostàries i durant la dècada del 2008-18. 
 
@@ -21,7 +23,8 @@ Vam entrevistar a la Raquel, la dona que gairebé va ser assassinada per la seva
 
 Vam filmar entrevistes amb experts i vam parlar amb més d’una desena de professionals que atenen les dones agredides per entendre millor el context, així com més exemples de dones que s'havien trobat en situacions similars a les de Raquel. 
 
-Podeu trobar tots aquests [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades](https://github.com/xaquingv/desprotegides/tree/master/dades) nets a les carpetes corresponents.
+## Dades i documents
+Podeu trobar tots aquests [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) i [dades](https://github.com/xaquingv/desprotegides/tree/master/dades) netes a les carpetes corresponents.
 
 ## Alerta nerd 🤓
 Per al segon mapa del gràfic scrollytelling al capítol 3, vam obtenir les zones a menys de 30 minuts amb cotxe dels més de 100 SIADs fent servir l'API Isochrone de Mapbox. Després les hem fusionat i hem utilitzat el resultat per retallar un raster amb dades de densitat de població (amb nombre de persones per cel·la), per estimar la població en el rang d’un SIAD.
@@ -37,9 +40,9 @@ Per a la nostra presentació, vam escollir fonts dissenyades per Veronika Burian
 Per a la cortina de 75.000 dones del primer gràfic vam utilitzar [WeePeople](https://github.com/propublica/weepeople), una font de ProPublica i d'Alberto Cairo. Vam escollir a l'atzar lletres de la cadena 'abcdefghijklmnopqrs' — amb tots els personatges femenins disponibles a la font.
 
 ## L'equip 😍
-**Karma Peiró** és una periodista i docent catalana especialitzada en internet i el periodisme de dades. Va ser directora de Nació Digital des del juliol de 2015 fins a l'abril de 2018. Abans va ocupar càrrecs de responsabilitat a la revista Web, en.red.ando, La Vanguardia Digital i TV3.
+[**Karma Peiró**](https://twitter.com/kpeiro) és una periodista i docent catalana especialitzada en internet i el periodisme de dades. Va ser directora de Nació Digital des del juliol de 2015 fins a l'abril de 2018. Abans va ocupar càrrecs de responsabilitat a la revista Web, en.red.ando, La Vanguardia Digital i TV3.
 
-**Xaquín G.V.** és un periodista de dades i editor visual gallec. Entre 2014 i 2017, va dirigir l'equip de Visuals de The Guardian a Londres. Abans va treballar a National Geographic, The New York Times, Newsweek i El Mundo (Espanya).
+[**Xaquín G.V.**](https://twitter.com/xocasgv) és un periodista de dades i editor visual gallec. Entre 2014 i 2017, va dirigir l'equip de Visuals de The Guardian a Londres. Abans va treballar a National Geographic, The New York Times, Newsweek i El Mundo (Espanya).
 
 **Rocío Minvielle** és una documentalista audiovisual, productora, activista feminista i part del col·lectiu insurRECtas.
 
@@ -63,6 +66,7 @@ We read through dozens of European, Spanish and Catalan studies and assessments 
 
 We interviewed Raquel who was almost killed by her ex-partner. We are especially thankful to her for retelling her story and doing so in front of a camera.. She now works helping women going through the same situation. We filmed interviews with experts and spoke to more than a dozen others to understand the network of professionals involved in cases of violence against women.
 
+## Data and documents
 You can find all these [documents](https://github.com/xaquingv/desprotegides/tree/master/documents) and clean [datasets](https://github.com/xaquingv/desprotegides/tree/master/dades) in the corresponding folders.
 
 ## Nerd alert 🤓
@@ -77,9 +81,9 @@ This is a story about violence against women and one of the pillars that support
 For the wall of 75.000 women in the first graphic we used [WeePeople](https://github.com/propublica/weepeople), a font by ProPublica and Alberto Cairo, and we randomly chose from the ‘abcdefghijklmnopqrs’ string — which renders all the available female characters in the font.
 
 ## The team 😍
-**Karma Peiró** is a data journalist and instructor from Catalunya. She was the editor in chief at Nació Digital between 2015 and 2018. Before that, she worked and lead teams at Web Magazine, en.red.ando, Catalunya Ràdio, La Vanguardia Digital, and TV3.
+[**Karma Peiró**](https://twitter.com/kpeiro) is a data journalist and instructor from Catalunya. She was the editor in chief at Nació Digital between 2015 and 2018. Before that, she worked and lead teams at Web Magazine, en.red.ando, Catalunya Ràdio, La Vanguardia Digital, and TV3.
 
-**Xaquín G.V.** is an interactive, data and visual journalist from Galicia. Between 2014 and 2017, he led the Visuals desk at The Guardian in London. Before that, he worked at National Geographic, The New York Times, Newsweek and El Mundo (Spain).
+[**Xaquín G.V.**](https://twitter.com/xocasgv) is an interactive, data and visual journalist from Galicia. Between 2014 and 2017, he led the Visuals desk at The Guardian in London. Before that, he worked at National Geographic, The New York Times, Newsweek and El Mundo (Spain).
 
 **Rocío Minvielle** is a documentary filmmaker, producer, and feminist activist. She’s a member of the insurRECtas collective.
   
