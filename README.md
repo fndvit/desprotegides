@@ -16,6 +16,7 @@ La cerca de dades ha estat basada en la dècada del 2008-18 — moment que el Pa
 
 Atès que els pressupostos publicats en els portals de transparència no especifiquen les partides destinades a la violència masclista, vam demanar per la Llei de Transparència aquesta informació. Després de l’ajornament d'un mes, l'Institut Català de les Dones va demanar un segon ajornament. Finalment, el que hem rebut és un recull d'informes prèviament publicats —i que ja eren a la nostra col·lecció de fonts—. Aquest enviament ens ha servit, però, per adonar-nos que les dades recollides anys anteriors i les que ens ha passat l'ICD avui responen a diferents criteris perquè no coincideixen. Igualment, encara que s'hagi publicat el reportatge, aspirem a aclarir aquestes dades facilitades en el darrer moment i a fer-les públiques, perquè és la primera vegada que es presenten per departaments i partides pressupostàries i durant la dècada del 2008-18. 
 
+## Entrevistes
 Vam entrevistar a la Raquel, la dona que gairebé va ser assassinada per la seva exparella. Ara treballa per ajudar a dones que passen per la mateixa situació. Agraïm especialment la seva intervenció, perquè recordar de nou aquella història i atrevir-se a explicar-la davant d'una càmera no ha de ser gens fàcil. 
 
 Vam filmar entrevistes amb experts i vam parlar amb més d’una desena de professionals que atenen les dones agredides per entendre millor el context, així com més exemples de dones que s'havien trobat en situacions similars a les de Raquel. 
