@@ -60,7 +60,9 @@ The story received funding from [Fundació.Cat](https://fundacio.cat/), a privat
 Our first task was to visualize the real breadth of the issue: even when media outlets report on it, we often fail to properly showcase the reach, frequency, and severity of all forms of violence against women. Hopefully, our long scroll of women helps our audience grasp the magnitude.
 
 ## Methodology
-We limited our time scope to the past decade — when Parliament passed the Catalan Law on Women's Right to Eradicate Violence Against Women. We analyzed data from the regional police, the courts, the health department, the Catalan Institute for Women, and multiple surveys. The estimates we use throughout the report are based on the 2016 Catalan survey.
+We limited our time scope to the past decade — when Parliament passed the Catalan Law on Women's Right to Eradicate Violence Against Women. We analyzed data from the regional police, the courts, the health department, the Catalan Institute for Women, and multiple surveys.
+
+The estimates we use throughout the report are based on the 2016 Catalan survey.
 
 We read through dozens of European, Spanish and Catalan studies and assessments of public programs. Since the government budget doesn’t classify when an investment is linked to the program to combat and prevent violence against women, we requested that breakdown through the Transparency Law to various departments and, after some extensions, we received a breakdown by department and a collection of reports that had previously been released — and that were already in our cache of sources. The criteria used for it is different that in other partial budget breakdowns.
 
