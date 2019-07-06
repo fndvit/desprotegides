@@ -2,7 +2,7 @@
 
 # Desprotegides, malgrat tot
 
-Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat. 
+Aquest reportatge s'ha elaborat gràcies al finançament de la Fundació.Cat (https://fundacio.cat/). 
 
 L'objectiu és el retiment de comptes (accountability) a l'administració catalana sobre els recursos públics emprats per erradicar la violència masclista. Sempre amb un interès de reparació, conscienciació i millora de la situació actual.
 
