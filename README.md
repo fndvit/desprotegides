@@ -14,7 +14,7 @@ Després d'una primera ullada a les dades, vam tenir clar que calia visibilitzar
 
 La cerca de dades ha estat basada en la dècada del 2008-18 — moment que el Parlament va aprovar la Llei sobre el dret de les dones a erradicar la violència masclista-. Hem analitzat dades dels Mossos d'Esquadra, del Consell General del Poder Judicial, del departament de Salut, de l’Institut Català de les Dones i de múltiples enquestes. Hem llegit desenes d’estudis i avaluacions europees, espanyoles i catalanes de programes públics.
 
-Les estimacions que utilitzem a l’informe es basen en l’Enquesta de Violència Masclista 2016, del Departament d'Interior. 
+Les estimacions que utilitzem a l’informe es basen en l’Enquesta de Violència Masclista 2016, del Departament d'Interior. Per ajudar el lector a adonar-se de la magnitud del problema, vam traduir els percentatges a persones — fent servir el número de dones de més de setze anys segon el padró municipal. 
 
 Atès que els pressupostos publicats en els portals de transparència no especifiquen les partides destinades a la violència masclista, vam demanar per la Llei de Transparència aquesta informació. Després de l’ajornament d'un mes, l'Institut Català de les Dones va demanar un segon ajornament. Finalment, el que hem rebut és un recull d'informes prèviament publicats —i que ja eren a la nostra col·lecció de fonts—. Aquest enviament ens ha servit, però, per adonar-nos que les dades recollides anys anteriors i les que ens ha passat l'ICD avui responen a diferents criteris perquè no coincideixen. Igualment, encara que s'hagi publicat el reportatge, aspirem a aclarir aquestes dades facilitades en el darrer moment i a fer-les públiques, perquè és la primera vegada que es presenten per departaments i partides pressupostàries i durant la dècada del 2008-18. 
 
@@ -51,18 +51,20 @@ Per a la cortina de 75.000 dones del primer gràfic vam utilitzar [WeePeople](ht
 #### Llegueix en [català](https://github.com/xaquingv/desprotegides#read-in-english)
 
 # Unprotected — in spite of everything
+
+This story received funding from [Fundació.Cat](https://fundacio.cat/), a private non-profit that promotes the Catalan language and culture in technology. Our goal was government accountability: were the resources in place enough?
+
+## Why a story about violence against women?
 Between 2017 and 2018, Karma Peiró had been involved in project [#Cuéntalo](http://proyectocuentalo.org/), which recorded the stories of thousands of women speaking out about their personal experiences with violence in 140 characters.
 
 These were powerful personal dramas, what was the government doing to address violence against women?
 
-The story received funding from [Fundació.Cat](https://fundacio.cat/), a private non-profit that promotes the Catalan language and culture in technology. Our goal was government accountability: were the resources in place enough?
-
+## Methodology
 Our first task was to visualize the real breadth of the issue: even when media outlets report on it, we often fail to properly showcase the reach, frequency, and severity of all forms of violence against women. Hopefully, our long scroll of women helps our audience grasp the magnitude.
 
-## Methodology
 We limited our time scope to the past decade — when Parliament passed the Catalan Law on Women's Right to Eradicate Violence Against Women. We analyzed data from the regional police, the courts, the health department, the Catalan Institute for Women, and multiple surveys.
 
-The estimates we use throughout the report are based on the 2016 Catalan survey.
+The estimates we use throughout the report are based on the 2016 Catalan survey. In order to help the reader realize the magnitude of the issue we translated the percentages into people using census data for women older than sixteen.
 
 We read through dozens of European, Spanish and Catalan studies and assessments of public programs. Since the government budget doesn’t classify when an investment is linked to the program to combat and prevent violence against women, we requested that breakdown through the Transparency Law to various departments and, after some extensions, we received a breakdown by department and a collection of reports that had previously been released — and that were already in our cache of sources. The criteria used for it is different that in other partial budget breakdowns.
 
